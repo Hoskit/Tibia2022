@@ -76,7 +76,7 @@ monster.voices = {
 
 monster.loot = {
 	{name = "white pearl", chance = 3000},
-	{name = "gold coin", chance = 70000, maxCount = 144},
+	{name = "gold coin", chance = 70000, maxCount = 144 * 3},
 	{name = "scarab coin", chance = 10000, maxCount = 3},
 	{id = 3059, chance = 6800},
 	{id = 3098, chance = 1000}, -- Ring of healing

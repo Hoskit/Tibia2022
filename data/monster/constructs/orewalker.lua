@@ -75,8 +75,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{name = "gold coin", chance = 50000, maxCount = 100},
-	{name = "gold coin", chance = 50000, maxCount = 98},
+	{name = "gold coin", chance = 50000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 50000, maxCount = 98 * 3},
 	{name = "platinum coin", chance = 100000, maxCount = 10 * 3},
 	{name = "yellow gem", chance = 1030},
 	{id = 3097, chance = 4660}, -- Dwarven ring

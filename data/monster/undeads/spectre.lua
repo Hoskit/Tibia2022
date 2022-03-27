@@ -82,9 +82,9 @@ monster.loot = {
 	{name = "silver brooch", chance = 850},
 	{name = "silver brooch", chance = 110},
 	{id = 3019, chance = 110},
-	{name = "gold coin", chance = 33000, maxCount = 100},
-	{name = "gold coin", chance = 33000, maxCount = 100},
-	{name = "gold coin", chance = 33000, maxCount = 97},
+	{name = "gold coin", chance = 33000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 33000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 33000, maxCount = 97 * 3},
 	{name = "platinum coin", chance = 3850, maxCount = 7 * 3},
 	{id = 3049, chance = 190}, -- Stealth ring
 	{name = "wand of cosmic energy", chance = 9800},

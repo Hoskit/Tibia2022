@@ -81,9 +81,9 @@ monster.voices = {
 monster.loot = {
 	{name = "golden mug", chance = 2870},
 	{name = "small sapphire", chance = 12000},
-	{name = "gold coin", chance = 32300, maxCount = 100},
-	{name = "gold coin", chance = 32300, maxCount = 100},
-	{name = "gold coin", chance = 32300, maxCount = 39},
+	{name = "gold coin", chance = 32300, maxCount = 100 * 3},
+	{name = "gold coin", chance = 32300, maxCount = 100 * 3},
+	{name = "gold coin", chance = 32300, maxCount = 39 * 3},
 	{id = 3051, chance = 590}, -- Energy ring
 	{id = 3052, chance = 6250}, -- Life ring
 	{name = "life crystal", chance = 800},

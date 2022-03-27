@@ -82,7 +82,7 @@ monster.loot = {
 	{id = 2815, chance = 2000},
 	{name = "brown flask", chance = 820},
 	{id = 2914, chance = 880},
-	{name = "gold coin", chance = 15000, maxCount = 18},
+	{name = "gold coin", chance = 15000, maxCount = 18 * 3},
 	{id = 3050, chance = 100}, -- Power ring
 	{name = "life crystal", chance = 1002},
 	{name = "ankh", chance = 2240},

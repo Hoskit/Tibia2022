@@ -74,8 +74,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{name = "gold coin", chance = 50000, maxCount = 100},
-	{name = "gold coin", chance = 41000, maxCount = 38},
+	{name = "gold coin", chance = 50000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 41000, maxCount = 38 * 3},
 	{id = 3578, chance = 25430, maxCount = 4},
 	{name = "deepling scales", chance = 9620},
 	{name = "eye of a deepling", chance = 1200},

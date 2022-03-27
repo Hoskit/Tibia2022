@@ -85,7 +85,7 @@ monster.loot = {
 	{name = "piggy bank", chance = 80},
 	{id = 3003, chance = 2190},
 	{name = "wedding ring", chance = 4910},
-	{name = "gold coin", chance = 59500, maxCount = 100},
+	{name = "gold coin", chance = 59500, maxCount = 100 * 3},
 	{name = "might ring", chance = 470},
 	{name = "two handed sword", chance = 1500},
 	{name = "war hammer", chance = 870},

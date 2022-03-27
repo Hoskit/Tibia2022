@@ -76,7 +76,7 @@ monster.voices = {
 monster.loot = {
 	{name = "minotaur horn", chance = 100000, maxCount = 2},
 	{name = "minotaur leather", chance = 100000},
-	{name = "gold coin", chance = 92310, maxCount = 97},
+	{name = "gold coin", chance = 92310, maxCount = 97 * 3},
 	{name = "platinum coin", chance = 92310, maxCount = 3 * 3},
 	{name = "brass armor", chance = 76920},
 	{name = "double axe", chance = 76920},

@@ -84,9 +84,9 @@ monster.loot = {
 	{id = 2842, chance = 8500},
 	{name = "golden mug", chance = 3000},
 	{name = "small sapphire", chance = 5200},
-	{name = "gold coin", chance = 33000, maxCount = 100},
-	{name = "gold coin", chance = 33000, maxCount = 100},
-	{name = "gold coin", chance = 33000, maxCount = 42},
+	{name = "gold coin", chance = 33000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 33000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 33000, maxCount = 42 * 3},
 	{id = 3051, chance = 5000}, -- Energy ring
 	{name = "life crystal", chance = 520},
 	{name = "ice rapier", chance = 350},

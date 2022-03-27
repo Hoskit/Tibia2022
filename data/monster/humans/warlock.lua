@@ -90,7 +90,7 @@ monster.loot = {
 	{name = "ring of the sky", chance = 430},
 	{id = 3007, chance = 700},
 	{name = "small sapphire", chance = 1190},
-	{name = "gold coin", chance = 29340, maxCount = 80},
+	{name = "gold coin", chance = 29340, maxCount = 80 * 3},
 	{name = "talon", chance = 1150},
 	{id = 3051, chance = 2200}, -- Energy ring
 	{name = "mind stone", chance = 2000},

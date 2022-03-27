@@ -82,9 +82,9 @@ monster.voices = {
 
 monster.loot = {
 	{name = "piggy bank", chance = 1052},
-	{name = "gold coin", chance = 50000, maxCount = 100},
-	{name = "gold coin", chance = 50000, maxCount = 100},
-	{name = "gold coin", chance = 40000, maxCount = 35},
+	{name = "gold coin", chance = 50000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 50000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 40000, maxCount = 35 * 3},
 	{name = "small emerald", chance = 6250, maxCount = 4},
 	{id = 3051, chance = 961}, -- Energy ring
 	{name = "brown mushroom", chance = 3846, maxCount = 5},

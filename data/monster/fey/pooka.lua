@@ -87,7 +87,7 @@ monster.loot = {
 	{name = "carrot on a stick", chance = 20},
 	{name = "dream blossom staff", chance = 20},
 	{name = "small stone", chance = 200, maxCount = 5},
-	{name = "gold coin", chance = 30000, maxCount = 100},
+	{name = "gold coin", chance = 30000, maxCount = 100 * 3},
 	{id = 3049, chance = 492}, -- Stealth ring
 	{id = 3595, chance = 55000, maxCount = 3},
 	{name = "strong health potion", chance = 719},

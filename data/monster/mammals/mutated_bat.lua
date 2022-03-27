@@ -78,8 +78,8 @@ monster.voices = {
 
 monster.loot = {
 	{name = "black pearl", chance = 720, maxCount = 3},
-	{name = "gold coin", chance = 53000, maxCount = 50},
-	{name = "gold coin", chance = 40000, maxCount = 70},
+	{name = "gold coin", chance = 53000, maxCount = 50 * 3},
+	{name = "gold coin", chance = 40000, maxCount = 70 * 3},
 	{name = "small amethyst", chance = 500, maxCount = 2},
 	{id = 3051, chance = 990}, -- Energy ring
 	{name = "battle shield", chance = 7760},

@@ -80,9 +80,9 @@ monster.voices = {
 
 monster.loot = {
 	{name = "small diamond", chance = 750, maxCount = 3},
-	{name = "gold coin", chance = 30000, maxCount = 100},
-	{name = "gold coin", chance = 30000, maxCount = 100},
-	{name = "gold coin", chance = 30000, maxCount = 30},
+	{name = "gold coin", chance = 30000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 30000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 30000, maxCount = 30 * 3},
 	{name = "crossbow", chance = 5920},
 	{id = 3449, chance = 7650, maxCount = 10}, -- Burst arrow
 	{name = "dragon ham", chance = 34800, maxCount = 3},

@@ -76,9 +76,9 @@ monster.voices = {
 
 monster.loot = {
 	{name = "small sapphire", chance = 5600, maxCount = 3},
-	{name = "gold coin", chance = 38000, maxCount = 100},
-	{name = "gold coin", chance = 30000, maxCount = 100},
-	{name = "gold coin", chance = 30000, maxCount = 36},
+	{name = "gold coin", chance = 38000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 30000, maxCount = 100 * 3},
+	{name = "gold coin", chance = 30000, maxCount = 36 * 3},
 	{name = "platinum coin", chance = 25000, maxCount = 3 * 3},
 	{id = 3049, chance = 400}, -- Stealth ring
 	{id = 3098, chance = 1100}, -- Ring of healing

@@ -69,7 +69,7 @@ monster.loot = {
 	{name = "mino shield", chance = 17620},
 	{name = "silver token", chance = 1732},
 	{name = "gold token", chance = 1532},
-	{name = "gold coin", chance = 100000, maxCount = 200},
+	{name = "gold coin", chance = 100000, maxCount = 200 * 3},
 	{name = "platinum coin", chance = 29840, maxCount = 30 * 3},
 	{name = "piece of hell steel", chance = 12370, maxCount = 9},
 	{name = "red piece of cloth", chance = 16370, maxCount = 6},
