@@ -395,7 +395,7 @@ bool Weapon::useFist(Player* player, Creature* target)
 	CombatDamage damage;
 	damage.origin = ORIGIN_MELEE;
 	damage.primary.type = params.combatType;
-	damage.primary.value = -normal_random(0, maxDamage);
+	damage.primary.value = -normal_random(maxDamage/2, maxDamage);
 
 	Combat::doCombatHealth(player, target, damage, params);
 	if (!player->hasFlag(PlayerFlag_NotGainSkill) && player->getAddAttackSkill()) {
@@ -874,8 +874,8 @@ int32_t WeaponDistance::getElementDamage(const Player* player, const Creature* t
 	int32_t attackSkill = player->getSkillLevel(SKILL_DISTANCE);
 	float attackFactor = player->getAttackFactor();
 
-  	int32_t minValue = std::round(player->getLevel() / 5);
-  	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue + minValue) / 2;
+	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue) / 2;
+	int32_t minValue = maxValue / 2;
 
   	if (target) {
     	if (target->getPlayer()) {
@@ -915,8 +915,9 @@ int32_t WeaponDistance::getWeaponDamage(const Player* player, const Creature* ta
 	int32_t attackSkill = player->getSkillLevel(SKILL_DISTANCE);
 	float attackFactor = player->getAttackFactor();
 
-  	int32_t minValue = player->getLevel() / 5;
-  	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue + minValue);
+	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue);
+	int32_t minValue = maxValue / 2;
+
 	if (maxDamage) {
 		return -maxValue;
 	}

@@ -40,7 +40,7 @@ CombatDamage Combat::getCombatDamage(Creature* creature, Creature* target) const
 	damage.primary.type = params.combatType;
 	if (formulaType == COMBAT_FORMULA_DAMAGE) {
 		damage.primary.value = normal_random(
-			static_cast<int32_t>(maxa / 2),
+			static_cast<int32_t>(mina),
 			static_cast<int32_t>(maxa)
 		);
 	} else if (creature) {
@@ -74,7 +74,7 @@ CombatDamage Combat::getCombatDamage(Creature* creature, Creature* target) const
 					}
 				} else {
 					damage.primary.value = normal_random(
-						static_cast<int32_t>(maxb / 2),
+						static_cast<int32_t>(minb),
 						static_cast<int32_t>(maxb)
 					);
 				}
