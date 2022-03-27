@@ -5056,10 +5056,10 @@
 		<attribute key="showduration" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="manaticks" value="6000"/>
-		<attribute key="managain" value="8"/>
+		<attribute key="managain" value="20"/>
 		<attribute key="healthticks" value="6000"/>
-		<attribute key="healthgain" value="2"/>
-		<attribute key="duration" value="1200"/>
+		<attribute key="healthgain" value="10"/>
+		<attribute key="duration" value="12000"/>
 		<attribute key="transformdeequipto" value="3052"/>
 		<attribute key="decayTo" value="0"/>
 		<attribute key="weight" value="80"/>
@@ -5098,7 +5098,7 @@
 	<item id="3094" article="a" name="sword ring">
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showduration" value="1"/>
-		<attribute key="skillsword" value="4"/>
+		<attribute key="skillsword" value="8"/>
 		<attribute key="duration" value="1800"/>
 		<attribute key="transformdeequipto" value="3091"/>
 		<attribute key="decayTo" value="0"/>
@@ -5107,7 +5107,7 @@
 	<item id="3095" article="an" name="axe ring">
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showduration" value="1"/>
-		<attribute key="skillaxe" value="4"/>
+		<attribute key="skillaxe" value="8"/>
 		<attribute key="duration" value="1800"/>
 		<attribute key="transformdeequipto" value="3092"/>
 		<attribute key="decayTo" value="0"/>
@@ -5116,7 +5116,7 @@
 	<item id="3096" article="a" name="club ring">
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showduration" value="1"/>
-		<attribute key="skillclub" value="4"/>
+		<attribute key="skillclub" value="8"/>
 		<attribute key="duration" value="1800"/>
 		<attribute key="transformdeequipto" value="3093"/>
 		<attribute key="decayTo" value="0"/>
@@ -5141,7 +5141,7 @@
 		<attribute key="suppressdrunk" value="1"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="duration" value="3600"/>
+		<attribute key="duration" value="36000"/>
 		<attribute key="transformdeequipto" value="3097"/>
 		<attribute key="decayTo" value="0"/>
 		<attribute key="weight" value="110"/>
@@ -5150,10 +5150,10 @@
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="manaticks" value="6000"/>
-		<attribute key="managain" value="24"/>
-		<attribute key="healthticks" value="6000"/>
-		<attribute key="healthgain" value="6"/>
+		<attribute key="manaticks" value="3000"/>
+		<attribute key="managain" value="48"/>
+		<attribute key="healthticks" value="3000"/>
+		<attribute key="healthgain" value="24"/>
 		<attribute key="duration" value="450"/>
 		<attribute key="transformdeequipto" value="3098"/>
 		<attribute key="decayTo" value="0"/>
