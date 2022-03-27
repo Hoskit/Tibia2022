@@ -108,7 +108,7 @@ monster.elements = {
 	{type = COMBAT_DROWNDAMAGE, percent = 0},
 	{type = COMBAT_ICEDAMAGE, percent = -15},
 	{type = COMBAT_HOLYDAMAGE , percent = 85},
-	{type = COMBAT_DEATHDAMAGE , percent = -20}
+	{type = COMBAT_DEATHDAMAGE , percent = -40}
 }
 
 monster.immunities = {
