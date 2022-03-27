@@ -5929,8 +5929,8 @@
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 	</item>
-	<item id="3280" article="a" name="fire sword (2 range)">
-		<attribute key="description" value="The blade is a magic flame"/>
+	<item id="3280" article="a" name="fire sword">
+		<attribute key="description" value="The blade is a magic flame (2 range)"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementfire" value="27"/>
 		<attribute key="attack" value="16"/>
