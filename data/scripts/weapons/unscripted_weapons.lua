@@ -4595,7 +4595,6 @@ local weapons = {
 		-- machete
 		itemid = 3308,
 		type = WEAPON_SWORD
-		script = "melee_big_square.lua"
 	},
 	{
 		-- scimitar
