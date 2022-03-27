@@ -136,7 +136,7 @@ monster.elements = {
 	{type = COMBAT_FIREDAMAGE, percent = 98},
 	{type = COMBAT_LIFEDRAIN, percent = 100},
 	{type = COMBAT_MANADRAIN, percent = 0},
-	{type = COMBAT_DROWNDAMAGE, percent = -305},
+	{type = COMBAT_DROWNDAMAGE, percent = -605},
 	{type = COMBAT_ICEDAMAGE, percent = 98},
 	{type = COMBAT_HOLYDAMAGE , percent = 95},
 	{type = COMBAT_DEATHDAMAGE , percent = 98}
