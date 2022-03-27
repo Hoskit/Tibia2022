@@ -5929,7 +5929,7 @@
 			<attribute key="skillboost club" value="3"/>
 		</attribute>
 	</item>
-	<item id="3280" article="a" name="fire sword">
+	<item id="3280" article="a" name="fire sword (2 range)">
 		<attribute key="description" value="The blade is a magic flame"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementfire" value="11"/>
@@ -6202,7 +6202,6 @@
 		<attribute key="defense" value="9"/>
 		<attribute key="weight" value="1650"/>
 		<attribute key="upgradeclassification" value="1"/>
-		<attribute key="range" value="2"/>
 	</item>
 	<item id="3309" article="a" name="thunder hammer">
 		<attribute key="description" value="It is blessed by the gods of Tibia"/>
