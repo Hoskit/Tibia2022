@@ -149,7 +149,7 @@
 		<attribute key="description" value="It is the bottle Boozer gave you for the brown ale."/>
 	</item>
 	<item id="139" article="a" name="mining helmet">
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="description" value="This is Budriks old mining helmet."/>
 		<attribute key="slotType" value="head"/>
@@ -899,7 +899,7 @@
 	</item>
 	<item id="645" name="blue legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1800"/>
 	</item>
 	<item id="646" article="an" name="elvenhair rope">
@@ -1744,14 +1744,14 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentpoison" value="6"/>
 		<attribute key="absorbpercentfire" value="-6"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1900"/>
 	</item>
 	<item id="813" name="terra boots">
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentpoison" value="5"/>
 		<attribute key="absorbpercentfire" value="-5"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -1797,7 +1797,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentice" value="-5"/>
 		<attribute key="absorbpercentfire" value="5"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -1807,7 +1807,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentice" value="5"/>
 		<attribute key="absorbpercentenergy" value="-5"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -1817,7 +1817,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentpoison" value="-5"/>
 		<attribute key="absorbpercentenergy" value="5"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -1827,21 +1827,21 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentice" value="-6"/>
 		<attribute key="absorbpercentfire" value="6"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1900"/>
 	</item>
 	<item id="822" name="lightning legs">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentpoison" value="-6"/>
 		<attribute key="absorbpercentenergy" value="6"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1900"/>
 	</item>
 	<item id="823" article="a" name="glacier kilt">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentice" value="6"/>
 		<attribute key="absorbpercentenergy" value="-6"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1900"/>
 	</item>
 	<item id="824" article="a" name="glacier robe">
@@ -1872,7 +1872,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentice" value="-5"/>
 		<attribute key="absorbpercentfire" value="4"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -1880,7 +1880,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentpoison" value="-5"/>
 		<attribute key="absorbpercentenergy" value="4"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -1888,7 +1888,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentice" value="4"/>
 		<attribute key="absorbpercentenergy" value="-5"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -1896,7 +1896,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentpoison" value="4"/>
 		<attribute key="absorbpercentfire" value="-5"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -2013,7 +2013,7 @@
 	<item id="875" article="a" name="mining helmet">
 		<attribute key="description" value="This is your personal mining helmet"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -2037,7 +2037,7 @@
 	</item>
 	<item id="894" article="a" name="jester hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -4823,7 +4823,7 @@
 	<item id="3055" article="a" name="platinum amulet">
 		<attribute key="description" value="It is an amulet of protection"/>
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="600"/>
 	</item>
 	<item id="3056" article="a" name="bronze amulet">
@@ -5549,7 +5549,7 @@
 		<attribute key="description" value="You have a vague feeling that it looks somewhat silly"/>
 		<attribute key="slotType" value="head"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -5615,7 +5615,7 @@
 	</item>
 	<item id="3226" article="a" name="damaged helmet">
 		<attribute key="description" value="This item seems to have several parts missing"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="1800"/>
 	</item>
 	<item id="3227" article="a" name="helmet piece">
@@ -6684,13 +6684,13 @@
 	</item>
 	<item id="3351" article="a" name="steel helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3352" article="a" name="chain helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="4200"/>
 		<attribute key="upgradeclassification" value="1"/>
 		<attribute key="imbuementslot" value="1">
@@ -6704,37 +6704,37 @@
 	</item>
 	<item id="3353" article="an" name="iron helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3354" article="a" name="brass helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="2700"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3355" article="a" name="leather helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="2200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3356" article="a" name="devil helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="5000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="3357" article="a" name="plate armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3358" article="a" name="chain armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="10000"/>
 		<attribute key="upgradeclassification" value="1"/>
 		<attribute key="imbuementslot" value="2">
@@ -6749,13 +6749,13 @@
 	</item>
 	<item id="3359" article="a" name="brass armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="8000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3360" article="a" name="golden armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="14"/>
+		<attribute key="armor" value="28"/>
 		<attribute key="weight" value="8000"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6770,29 +6770,29 @@
 	</item>
 	<item id="3361" article="a" name="leather armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="6000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3362" name="studded legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2600"/>
 	</item>
 	<item id="3363" name="dragon scale legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="4800"/>
 	</item>
 	<item id="3364" name="golden legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="5600"/>
 	</item>
 	<item id="3365" article="a" name="golden helmet">
 		<attribute key="description" value="It's the famous Helmet of the Stars"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="3200"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -6806,7 +6806,7 @@
 	</item>
 	<item id="3366" article="a" name="magic plate armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="8500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6821,20 +6821,20 @@
 	</item>
 	<item id="3367" article="a" name="viking helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3900"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3368" article="a" name="winged helmet">
 		<attribute key="description" value="It's the Helmet of Hermes"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
 	<item id="3369" article="a" name="warrior helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="6800"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6848,7 +6848,7 @@
 	</item>
 	<item id="3370" article="a" name="knight armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6863,53 +6863,53 @@
 	</item>
 	<item id="3371" name="knight legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="7000"/>
 	</item>
 	<item id="3372" name="brass legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3800"/>
 	</item>
 	<item id="3373" article="a" name="strange helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3374" article="a" name="legion helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="3375" article="a" name="soldier helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3376" article="a" name="studded helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2450"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3377" article="a" name="scale armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="10500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3378" article="a" name="studded armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="7100"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3379" article="a" name="doublet">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -6930,7 +6930,7 @@
 	</item>
 	<item id="3381" article="a" name="crown armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="9900"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -6945,24 +6945,24 @@
 	</item>
 	<item id="3382" name="crown legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="6500"/>
 	</item>
 	<item id="3383" article="a" name="dark armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3384" article="a" name="dark helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3385" article="a" name="crown helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2950"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6976,7 +6976,7 @@
 	</item>
 	<item id="3386" article="a" name="dragon scale mail">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="11400"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -6992,7 +6992,7 @@
 	<item id="3387" article="a" name="demon helmet">
 		<attribute key="description" value="You hear an evil whispering from inside"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="2950"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7006,7 +7006,7 @@
 	</item>
 	<item id="3388" article="a" name="demon armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="8000"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7021,7 +7021,7 @@
 	</item>
 	<item id="3389" name="demon legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="7000"/>
 	</item>
 	<item id="3390" article="a" name="horned helmet">
@@ -7032,7 +7032,7 @@
 	</item>
 	<item id="3391" article="a" name="crusader helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="5200"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7047,7 +7047,7 @@
 	<item id="3392" article="a" name="royal helmet">
 		<attribute key="description" value="An excellent masterpiece of a smith"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7061,7 +7061,7 @@
 	</item>
 	<item id="3393" article="an" name="amazon helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2950"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -7076,7 +7076,7 @@
 	<item id="3394" article="an" name="amazon armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="skilldist" value="3"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="4500"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -7091,14 +7091,14 @@
 	</item>
 	<item id="3395" article="a" name="ceremonial mask">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="4000"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
 	<item id="3396" article="a" name="dwarven helmet">
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentphysical" value="2"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4200"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -7113,7 +7113,7 @@
 	<item id="3397" article="a" name="dwarven armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentphysical" value="5"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="13000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -7129,12 +7129,12 @@
 	<item id="3398" name="dwarven legs">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentphysical" value="3"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4900"/>
 	</item>
 	<item id="3399" article="an" name="elven mail">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="9000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="3">
@@ -7150,30 +7150,30 @@
 	<item id="3400" article="a" name="dragon scale helmet">
 		<attribute key="description" value="It's made of dragon scales."/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="3250"/>
 		<attribute key="upgradeclassification" value="3"/>
 	</item>
 	<item id="3401" name="elven legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3300"/>
 	</item>
 	<item id="3402" article="a" name="native armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="8000"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
 	<item id="3403" article="a" name="tribal mask">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3404" article="a" name="leopard armor">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="9500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7188,25 +7188,25 @@
 	</item>
 	<item id="3405" article="a" name="horseman helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3406" article="a" name="feather headdress">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2100"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3407" article="a" name="charmer's tiara">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="2200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3408" article="a" name="bonelord helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -7843,7 +7843,7 @@
 	</item>
 	<item id="3550" name="patched boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -7858,7 +7858,7 @@
 	</item>
 	<item id="3552" name="leather boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -7873,7 +7873,7 @@
 	</item>
 	<item id="3554" name="steel boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="2900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -7881,7 +7881,7 @@
 	</item>
 	<item id="3555" name="golden boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -7889,7 +7889,7 @@
 	</item>
 	<item id="3556" name="crocodile boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -7897,17 +7897,17 @@
 	</item>
 	<item id="3557" name="plate legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="5000"/>
 	</item>
 	<item id="3558" name="chain legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="3500"/>
 	</item>
 	<item id="3559" name="leather legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1800"/>
 	</item>
 	<item id="3560" article="a" name="bast skirt">
@@ -7916,37 +7916,37 @@
 	</item>
 	<item id="3561" article="a" name="jacket">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="2400"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3562" article="a" name="coat">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="2700"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3563" article="a" name="green tunic">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="930"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3564" article="a" name="red tunic">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1400"/>
 	</item>
 	<item id="3565" article="a" name="cape">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="3200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3566" article="a" name="red robe">
 		<attribute key="description" value="The robe is artfully embroidered"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="2600"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -7980,18 +7980,18 @@
 	</item>
 	<item id="3571" article="a" name="ranger's cloak">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3572" article="a" name="scarf">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="200"/>
 	</item>
 	<item id="3573" article="a" name="magician hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -8006,7 +8006,7 @@
 	<item id="3574" article="a" name="mystic turban">
 		<attribute key="description" value="Something is strange about this turban"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="850"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -8014,14 +8014,14 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentpoison" value="4"/>
 		<attribute key="skilldist" value="1"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1100"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="3576" article="a" name="post officer's hat">
 		<attribute key="description" value="This hat is the insignia of all Tibian post officers"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -8607,7 +8607,7 @@
 	<item id="4033" article="a" name="draken boots">
 		<attribute key="slotType" value="feet"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -11443,12 +11443,12 @@
 		<attribute key="description" value="Enables underwater exploration"/>
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentdrown" value="100"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="21000"/>
 	</item>
 	<item id="5461" name="pirate boots">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -11912,7 +11912,7 @@
 	</item>
 	<item id="5741" article="a" name="skull helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="4200"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -12219,7 +12219,7 @@
 	<item id="5903" name="Ferumbras' hat">
 		<attribute key="description" value="It is the proof that Ferumbras has fallen. For now. The Edron Academy should be interested in this"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="850"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -12268,13 +12268,13 @@
 	<item id="5917" article="a" name="bandana">
 		<attribute key="description" value="It is quite fashionable as well as useful for anyone spending huge amounts of time in the sun"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="850"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="5918" name="pirate knee breeches">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1200"/>
 	</item>
 	<item id="5919" article="a" name="dragon claw">
@@ -13336,13 +13336,13 @@
 	<item id="6094" article="a" name="thread tree"/>
 	<item id="6095" article="a" name="pirate shirt">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="2000"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="6096" article="a" name="pirate hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1250"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -13648,7 +13648,7 @@
 		<attribute key="showduration" value="1"/>
 		<attribute key="absorbpercentdeath" value="5"/>
 		<attribute key="transformequipto" value="6300"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="80"/>
 	</item>
 	<item id="6300" article="a" name="death ring">
@@ -13660,7 +13660,7 @@
 		<attribute key="duration" value="480"/>
 		<attribute key="transformdeequipto" value="6299"/>
 		<attribute key="decayTo" value="0"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="80"/>
 	</item>
 	<item id="6301" article="a" name="dead wyvern">
@@ -14329,7 +14329,7 @@
 	</item>
 	<item id="6531" article="a" name="santa hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -14476,7 +14476,7 @@
 	</item>
 	<item id="6578" article="a" name="party hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="750"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -16242,7 +16242,7 @@
 		<attribute key="description" value="These boots keep your toes warm even in the iciest regions, but they feel kind of heavy"/>
 		<attribute key="slotType" value="feet"/>
 		<attribute key="speed" value="-12"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -16251,7 +16251,7 @@
 	<item id="7458" article="a" name="fur cap">
 		<attribute key="description" value="It feels nice and warm on your ears"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1800"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -16286,20 +16286,20 @@
 	</item>
 	<item id="7461" article="a" name="krimhorn helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="5100"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="7462" article="a" name="ragnir helmet">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="7463" article="a" name="mammoth fur cape">
 		<attribute key="description" value="It is imbued with protective magic"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="2000"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -16862,13 +16862,13 @@
 	<item id="7991" article="a" name="magician's robe">
 		<attribute key="description" value="This robe feels soft and light as a feather"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="7992" article="a" name="mage hat">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="upgradeclassification" value="1"/>
 		<attribute key="imbuementslot" value="2">
@@ -17095,7 +17095,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="12"/>
 		<attribute key="absorbpercentenergy" value="-12"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2950"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -17104,7 +17104,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="-12"/>
 		<attribute key="absorbpercentfire" value="12"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2850"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17113,7 +17113,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentpoison" value="-12"/>
 		<attribute key="absorbpercentenergy" value="12"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2850"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17121,27 +17121,27 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentpoison" value="12"/>
 		<attribute key="absorbpercentfire" value="-12"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2850"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="8042" article="a" name="spirit cloak">
 		<attribute key="slotType" value="body"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="2650"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="8043" article="a" name="focus cape">
 		<attribute key="slotType" value="body"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2100"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="8044" article="a" name="belted cape">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -17166,7 +17166,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="-3"/>
 		<attribute key="absorbpercentfire" value="3"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="8500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17174,7 +17174,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="3"/>
 		<attribute key="absorbpercentenergy" value="-3"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="8450"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17182,7 +17182,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentpoison" value="-3"/>
 		<attribute key="absorbpercentenergy" value="3"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="8450"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17190,7 +17190,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentpoison" value="3"/>
 		<attribute key="absorbpercentfire" value="-3"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="8450"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17199,7 +17199,7 @@
 		<attribute key="absorbpercentice" value="-5"/>
 		<attribute key="absorbpercentfire" value="5"/>
 		<attribute key="skillsword" value="2"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17208,7 +17208,7 @@
 		<attribute key="absorbpercentpoison" value="5"/>
 		<attribute key="absorbpercentfire" value="-5"/>
 		<attribute key="skillaxe" value="2"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -17217,7 +17217,7 @@
 		<attribute key="absorbpercentpoison" value="-5"/>
 		<attribute key="absorbpercentenergy" value="5"/>
 		<attribute key="skillclub" value="2"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17226,7 +17226,7 @@
 		<attribute key="absorbpercentice" value="5"/>
 		<attribute key="absorbpercentenergy" value="-5"/>
 		<attribute key="skillshield" value="1"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="10000"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -17234,7 +17234,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentdeath" value="10"/>
 		<attribute key="absorbpercentholy" value="-10"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="7500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17242,7 +17242,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="-7"/>
 		<attribute key="absorbpercentfire" value="7"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="7500"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -17250,14 +17250,14 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="7"/>
 		<attribute key="absorbpercentenergy" value="-7"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="7500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="8060" article="a" name="master archer's armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="skilldist" value="3"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="6900"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -17274,7 +17274,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentdeath" value="5"/>
 		<attribute key="absorbpercentholy" value="-5"/>
-		<attribute key="armor" value="14"/>
+		<attribute key="armor" value="28"/>
 		<attribute key="weight" value="11000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -17282,14 +17282,14 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentdeath" value="12"/>
 		<attribute key="absorbpercentholy" value="-12"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="8063" article="a" name="paladin armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="6500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -17305,7 +17305,7 @@
 	<item id="8064" article="an" name="ethno coat">
 		<attribute key="slotType" value="body"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2550"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -17494,7 +17494,7 @@
 	</item>
 	<item id="8095" name="ranger legs">
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3500"/>
 	</item>
 	<item id="8096" article="a" name="hellforged axe">
@@ -18473,7 +18473,7 @@
 	<item id="8862" article="a" name="yalahari armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentdeath" value="3"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="7000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -18481,13 +18481,13 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentdeath" value="5"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="6500"/>
 	</item>
 	<item id="8864" article="a" name="yalahari mask">
 		<attribute key="slotType" value="head"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -18611,25 +18611,25 @@
 	<item fromid="8903" toid="8905" article="a" name="rusty boots">
 		<attribute key="description" value="If you can remove the rust layer and dirt from the boots you will be able to see what it is"/>
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="2800"/>
 	</item>
 	<item id="8906" article="a" name="heavily rusted helmet">
 		<attribute key="description" value="If you can remove the rust layer and dirt from the helmet you will be able to see what it is"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="5200"/>
 	</item>
 	<item id="8907" article="a" name="rusted helmet">
 		<attribute key="description" value="If you can remove the rust layer and dirt from the helmet you will be able to see what it is"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="5200"/>
 	</item>
 	<item id="8908" article="a" name="slightly rusted helmet">
 		<attribute key="description" value="If you can remove the rust layer and dirt from the helmet you will be able to see what it is"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="5200"/>
 	</item>
 	<item id="8909" article="a" name="slain undead gladiator">
@@ -18913,7 +18913,7 @@
 		<attribute key="duration" value="3600"/>
 		<attribute key="transformdeequipto" value="9019"/>
 		<attribute key="decayTo" value="9020"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="950"/>
 	</item>
 	<item id="9019" article="a" name="firewalker boots">
@@ -18922,7 +18922,7 @@
 		<attribute key="stopduration" value="1"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="transformequipto" value="9018"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="950"/>
 	</item>
 	<item id="9020" name="worn firewalker boots">
@@ -19263,7 +19263,7 @@
 	<item id="9103" article="a" name="batwing hat">
 		<attribute key="slotType" value="head"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="600"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -19922,7 +19922,7 @@
 	<item id="9374" article="an" name="odd hat">
 		<attribute key="description" value="It has to be one of the fabled helmets of light"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -19984,7 +19984,7 @@
 	<item id="9379" article="a" name="heavy metal t-shirt">
 		<attribute key="description" value="Oddly enough it is not made of metal at all, but years without washing grant it added protection"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="800"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -20015,7 +20015,7 @@
 	<item id="9381" article="a" name="helmet of ultimate terror">
 		<attribute key="description" value="There is evil inside"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1250"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -20030,7 +20030,7 @@
 	<item id="9382" article="a" name="helmet of nature">
 		<attribute key="description" value="One can only hope nobody will ever insist on wearing that"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1100"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -20045,7 +20045,7 @@
 	<item id="9383" name="trousers of the ancients">
 		<attribute key="description" value="These atavistic trousers already served the forefathers of mankind"/>
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="30"/>
 	</item>
 	<item id="9384" article="a" name="scythe of the reaper">
@@ -20146,14 +20146,14 @@
 	<item id="9399" article="a" name="mighty helm of green sparks">
 		<attribute key="description" value="This helmet spawns green stars. Awesome"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="9400" article="the" name="rain coat">
 		<attribute key="description" value="The wearer of this cape commands the forces of heaven"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="3200"/>
 	</item>
 	<item id="9401" article="the" name="shield Nevermourn">
@@ -20200,7 +20200,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="duration" value="300"/>
 		<attribute key="decayTo" value="9400"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="3200"/>
 	</item>
 	<item id="9447" article="the" name="shield Nevermourn">
@@ -20556,7 +20556,7 @@
 	<item id="9653" article="a" name="witch hat">
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentmanadrain" value="5"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="780"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -20970,7 +20970,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentice" value="3"/>
 		<attribute key="absorbpercentenergy" value="-3"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1850"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -20980,7 +20980,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentice" value="-3"/>
 		<attribute key="absorbpercentfire" value="3"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1850"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -21249,7 +21249,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentphysical" value="2"/>
 		<attribute key="absorbpercentholy" value="-2"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="2250"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -21515,14 +21515,14 @@
 	<item id="10384" article="a" name="Zaoan armor">
 		<attribute key="slotType" value="body"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="9550"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="10385" article="a" name="Zaoan helmet">
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentphysical" value="5"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="6600"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -21537,7 +21537,7 @@
 	<item id="10386" article="a" name="Zaoan shoes">
 		<attribute key="slotType" value="feet"/>
 		<attribute key="speed" value="10"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="700"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -21546,7 +21546,7 @@
 	<item id="10387" article="a" name="Zaoan legs">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentphysical" value="2"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="6600"/>
 	</item>
 	<item id="10388" article="a" name="drakinata">
@@ -21869,7 +21869,7 @@
 	<item id="10451" article="a" name="jade hat">
 		<attribute key="slotType" value="head"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -22427,7 +22427,7 @@
 	</item>
 	<item id="11468" article="an" name="ornamented brooch">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="840"/>
 	</item>
 	<item id="11469" article="a" name="hunter's quiver" plural="hunter quivers">
@@ -22645,7 +22645,7 @@
 		<attribute key="duration" value="21600"/>
 		<attribute key="transformdeequipto" value="5460"/>
 		<attribute key="decayTo" value="5460"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="21000"/>
 	</item>
 	<item id="11586" article="a" name="pot of blackjack">
@@ -22865,7 +22865,7 @@
 	<item id="11651" article="an" name="elite draken mail">
 		<attribute key="slotType" value="body"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -22999,7 +22999,7 @@
 		<attribute key="absorbpercentpoison" value="5"/>
 		<attribute key="absorbpercentfire" value="-5"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="850"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -23053,7 +23053,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="skillshield" value="3"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="13000"/>
 		<attribute key="upgradeclassification" value="3"/>
 	</item>
@@ -23061,7 +23061,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentfire" value="5"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="4500"/>
 		<attribute key="upgradeclassification" value="3"/>
 	</item>
@@ -23085,7 +23085,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentdeath" value="3"/>
 		<attribute key="skilldist" value="1"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="4300"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -23158,14 +23158,14 @@
 	<item id="11700" article="a" name="sedge hat">
 		<attribute key="description" value="This simple hat might be more worth than what it looks like"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1800"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="11701" article="an" name="old cape">
 		<attribute key="description" value="This old cape might be worth more than what it looks like"/>
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="upgradeclassification" value="3"/>
 	</item>
@@ -24297,7 +24297,7 @@
 	<item id="12599" article="a" name="mage's cap">
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentfire" value="4"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1000"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -25583,7 +25583,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="8"/>
 		<attribute key="skillshield" value="3"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="15600"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -25601,7 +25601,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentdeath" value="5"/>
 		<attribute key="skilldist" value="3"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -25617,14 +25617,14 @@
 		<attribute key="description" value="Enables underwater exploration"/>
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentdrown" value="100"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="4600"/>
 	</item>
 	<item id="13996" article="a" name="depth ocrea">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentmanadrain" value="15"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="4800"/>
 	</item>
 	<item id="13997" article="a" name="depth calcei">
@@ -25632,7 +25632,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="speed" value="-10"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="3700"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -25658,7 +25658,7 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="5"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="7700"/>
 	</item>
 	<item id="14000" article="an" name="ornate shield">
@@ -25934,7 +25934,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentice" value="5"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -25942,7 +25942,7 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3200"/>
 	</item>
 	<item id="14088" article="a" name="carapace shield">
@@ -26231,7 +26231,7 @@
 		<attribute key="description" value="Enables underwater exploration"/>
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentdrown" value="100"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="4600"/>
 	</item>
 	<item id="14259" name="Eighty outfit"/>
@@ -27276,7 +27276,7 @@
 		<attribute key="absorbpercentpoison" value="6"/>
 		<attribute key="absorbpercentfire" value="-6"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -27285,7 +27285,7 @@
 		<attribute key="absorbpercentpoison" value="10"/>
 		<attribute key="absorbpercentfire" value="-10"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="1900"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -27294,7 +27294,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2800"/>
 	</item>
 	<item id="16107" article="a" name="spellbook of vigilance">
@@ -27320,7 +27320,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="skillshield" value="1"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="5600"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -27328,7 +27328,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="7900"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -27345,7 +27345,7 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="7100"/>
 	</item>
 	<item id="16112" name="prismatic boots">
@@ -27353,7 +27353,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentdeath" value="3"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -28849,7 +28849,7 @@
 	</item>
 	<item id="17829" article="a" name="buckle">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="7500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -28865,7 +28865,7 @@
 	<item fromid="17836" toid="17845" name="unknown item"/>
 	<item id="17846" article="a" name="leather harness">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2900"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -28888,7 +28888,7 @@
 	</item>
 	<item id="17852" article="a" name="helmet of the lost">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -32232,7 +32232,7 @@
 	<item id="19359" article="a" name="horn">
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="19360" name="RESERVED SPRITE"/>
@@ -32282,7 +32282,7 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentice" value="8"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1500"/>
 	</item>
 	<item fromid="19367" toid="19368" name="RESERVED SPRITE"/>
@@ -32300,7 +32300,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentpoison" value="2"/>
 		<attribute key="absorbpercentfire" value="-2"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="3"/>
 	</item>
@@ -32340,7 +32340,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentfire" value="5"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="3400"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -33201,7 +33201,7 @@
 	</item>
 	<item id="20184" article="a" name="broken visor">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1400"/>
 	</item>
 	<item fromid="20185" toid="20186" article="a" name="broken pottery">
@@ -34194,7 +34194,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentpoison" value="5"/>
 		<attribute key="absorbpercentfire" value="-5"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2900"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -34203,13 +34203,13 @@
 		<attribute key="absorbpercentpoison" value="3"/>
 		<attribute key="absorbpercentfire" value="-3"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="5"/>
+		<attribute key="armor" value="10"/>
 		<attribute key="weight" value="800"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
 	<item id="21166" article="a" name="mooh'tah plate">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="12500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -34224,7 +34224,7 @@
 	</item>
 	<item id="21167" article="a" name="heat core">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -34240,13 +34240,13 @@
 	<item id="21168" name="alloy legs">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4500"/>
 	</item>
 	<item id="21169" name="metal spats">
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentphysical" value="1"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -34254,7 +34254,7 @@
 	</item>
 	<item id="21170" article="a" name="gearwheel chain">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="21171" article="a" name="metal bat">
@@ -35347,7 +35347,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentice" value="5"/>
 		<attribute key="speed" value="10"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="4500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -35628,7 +35628,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -35943,13 +35943,13 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="transformequipto" value="22134"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="550"/>
 	</item>
 	<item id="22062" article="a" name="werewolf helmet">
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<item id="22063" article="a" name="purple nightshade">
@@ -36062,7 +36062,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -36072,7 +36072,7 @@
 		<attribute key="description" value="They offer little protection but will at least provide some comfort and warmth"/>
 		<attribute key="slotType" value="legs"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="armor" value="6"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="1300"/>
 	</item>
 	<!-- axe -->
@@ -36222,7 +36222,7 @@
 		<attribute key="skillaxe" value="1"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="22060"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<!-- club -->
@@ -36234,7 +36234,7 @@
 		<attribute key="skillclub" value="1"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="22060"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<!-- distance -->
@@ -36246,7 +36246,7 @@
 		<attribute key="skilldist" value="1"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="22060"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<!-- magic -->
@@ -36257,7 +36257,7 @@
 		<attribute key="magicpoints" value="1"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="22060"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<item id="22131" name="remains owin">
@@ -36275,7 +36275,7 @@
 		<attribute key="skillsword" value="1"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="22060"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<item id="22133" name="remains owin">
@@ -36291,7 +36291,7 @@
 		<attribute key="absorbpercentphysical" value="6"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="0"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="550"/>
 	</item>
 	<item id="22135" name="dead elder forest fury">
@@ -36481,7 +36481,7 @@
 	</item>
 	<item id="22192" article="a" name="shamanic mask">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -36502,7 +36502,7 @@
 	<item id="22195" article="an" name="onyx pendant">
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="absorbpercentdeath" value="2"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="850"/>
 	</item>
 	<item id="22196" article="a" name="crystal ball">
@@ -36597,7 +36597,7 @@
 		<attribute key="absorbpercentice" value="-8"/>
 		<attribute key="absorbpercentfire" value="8"/>
 		<attribute key="skillsword" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36606,7 +36606,7 @@
 		<attribute key="absorbpercentice" value="-8"/>
 		<attribute key="absorbpercentfire" value="8"/>
 		<attribute key="skillaxe" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36615,7 +36615,7 @@
 		<attribute key="absorbpercentice" value="-8"/>
 		<attribute key="absorbpercentfire" value="8"/>
 		<attribute key="skillclub" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36624,7 +36624,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="skillsword" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36633,7 +36633,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="skillaxe" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36642,7 +36642,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="skillclub" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36651,7 +36651,7 @@
 		<attribute key="absorbpercentpoison" value="-8"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skillsword" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36660,7 +36660,7 @@
 		<attribute key="absorbpercentpoison" value="-8"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skillaxe" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36669,7 +36669,7 @@
 		<attribute key="absorbpercentpoison" value="-8"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skillclub" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36678,7 +36678,7 @@
 		<attribute key="absorbpercentice" value="8"/>
 		<attribute key="absorbpercentenergy" value="-8"/>
 		<attribute key="skillsword" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36687,7 +36687,7 @@
 		<attribute key="absorbpercentice" value="8"/>
 		<attribute key="absorbpercentenergy" value="-8"/>
 		<attribute key="skillaxe" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36696,7 +36696,7 @@
 		<attribute key="absorbpercentice" value="8"/>
 		<attribute key="absorbpercentenergy" value="-8"/>
 		<attribute key="skillclub" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36705,7 +36705,7 @@
 		<attribute key="absorbpercentice" value="-8"/>
 		<attribute key="absorbpercentfire" value="8"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36714,7 +36714,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36723,7 +36723,7 @@
 		<attribute key="absorbpercentpoison" value="-8"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36732,7 +36732,7 @@
 		<attribute key="absorbpercentice" value="8"/>
 		<attribute key="absorbpercentenergy" value="-8"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="14500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36741,7 +36741,7 @@
 		<attribute key="absorbpercentice" value="-8"/>
 		<attribute key="absorbpercentfire" value="8"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36750,7 +36750,7 @@
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="absorbpercentfire" value="-8"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36759,7 +36759,7 @@
 		<attribute key="absorbpercentpoison" value="-8"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -36768,7 +36768,7 @@
 		<attribute key="absorbpercentice" value="8"/>
 		<attribute key="absorbpercentenergy" value="-8"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="15"/>
+		<attribute key="armor" value="30"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -37103,7 +37103,7 @@
 	<item id="22750" article="a" name="grille"/>
 	<item id="22754" article="a" name="visage of the end days">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="3800"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -37132,7 +37132,7 @@
 	</item>
 	<item id="22756" article="a" name="treader of torment">
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="3600"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -37140,7 +37140,7 @@
 	</item>
 	<item id="22757" article="a" name="shroud of despair">
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3400"/>
 		<attribute key="upgradeclassification" value="4"/>
 	</item>
@@ -37230,13 +37230,13 @@
 	<item id="22767" article="a" name="Ferumbras' amulet">
 		<attribute key="description" value="The rare jewel is made of sapphire and ruby and has a golden F-pendant"/>
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="22768" article="a" name="Ferumbras' amulet">
 		<attribute key="description" value="The rare jewel is made of sapphire and ruby and has a golden F-pendant"/>
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="22769" article="a" name="Ferumbras' mana keg">
@@ -37258,12 +37258,12 @@
 	<item id="22773" article="a" name="boots of homecoming">
 		<attribute key="description" value="They are made of dark red buckskin and the golden clasps look like the letter F"/>
 		<attribute key="slotType" value="feet"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1600"/>
 	</item>
 	<item id="22774" article="a" name="boots of homecoming">
 		<attribute key="description" value="They are made of dark red buckskin and the golden clasps look like the letter F"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1600"/>
 	</item>
 	<item id="22775" article="a" name="Ferumbras' teddy">
@@ -37943,7 +37943,7 @@
 		<attribute key="duration" value="3600"/>
 		<attribute key="transformdeequipto" value="23474"/>
 		<attribute key="decayTo" value="0"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="1150"/>
 	</item>
 	<item id="23476" name="void boots">
@@ -37960,7 +37960,7 @@
 		<attribute key="duration" value="3600"/>
 		<attribute key="transformdeequipto" value="26133"/>
 		<attribute key="decayTo" value="0"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1500"/>
 	</item>
 	<item id="23477" name="void boots">
@@ -37969,7 +37969,7 @@
 		<attribute key="stopduration" value="1"/>
 		<attribute key="showduration" value="1"/>
 		<attribute key="transformequipto" value="26132"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1500"/>
 	</item>
 	<item id="23478" article="a" name="dead dread intruder">
@@ -38868,7 +38868,7 @@
 	<item id="24397" article="a" name="Ferumbras' Candy Hat">
 		<attribute key="description" value="It is a sweet candy replica of the famous Ferumbras' hat"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="850"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -38876,20 +38876,20 @@
 	<item id="24402" article="a" name="chocolatey dragon scale legs">
 		<attribute key="description" value="This is a chocolate replica of the famous dragon scale legs"/>
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1800"/>
 	</item>
 	<item id="24403" name="plate layered wall"/>
 	<item id="24404" article="a" name="tatty dragon scale legs">
 		<attribute key="description" value="They clearly have seen better days"/>
 		<attribute key="slotType" value="legs"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="3800"/>
 	</item>
 	<item id="24405" article="a" name="rusty winged helmet">
 		<attribute key="description" value="It's the Helmet of Hermes but it clearly has seen better days"/>
 		<attribute key="slotType" value="head"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -39431,7 +39431,7 @@
 	</item>
 	<item id="25088" name="porcelain mask">
 		<attribute key="absorbpercentmanadrain" value="10"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="450"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -39935,7 +39935,7 @@
 	<item id="25698" article="a" name="butterfly ring">
 		<attribute key="slotType" value="ring"/>
 		<attribute key="absorbpercentdeath" value="3"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="25699" article="a" name="wooden spellbook">
@@ -40183,7 +40183,7 @@
 		<attribute key="absorbpercentpoison" value="12"/>
 		<attribute key="absorbpercentenergy" value="12"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="400"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -42640,7 +42640,7 @@
 	<item id="27565" article="a" name="foxtail amulet">
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="absorbpercentphysical" value="5"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item fromid="27566" toid="27581" name="RESERVED SPRITE"/>
@@ -42900,7 +42900,7 @@
 		<attribute key="absorbpercentice" value="-2"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2400"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -42914,7 +42914,7 @@
 		<attribute key="absorbpercentice" value="-2"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skilldist" value="3"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="12000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -42930,7 +42930,7 @@
 		<attribute key="absorbpercentice" value="-2"/>
 		<attribute key="absorbpercentenergy" value="7"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2500"/>
 	</item>
 	<item id="27650" article="a" name="gnome shield">
@@ -44351,7 +44351,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentfire" value="9"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="1300"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -44365,7 +44365,7 @@
 		<attribute key="absorbpercentfire" value="10"/>
 		<attribute key="skillshield" value="2"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="2800"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -44430,7 +44430,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentphysical" value="12"/>
 		<attribute key="skillshield" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="18800"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -44451,7 +44451,7 @@
 		<attribute key="skillclub" value="3"/>
 		<attribute key="skillaxe" value="3"/>
 		<attribute key="skillsword" value="3"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="3600"/>
 	</item>
 	<item id="28721" article="a" name="falcon shield">
@@ -45000,7 +45000,7 @@
 		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="-1"/>
 		<attribute key="defense" value="40"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="18000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -45015,7 +45015,7 @@
 		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="-1"/>
 		<attribute key="defense" value="40"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="18000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -45030,7 +45030,7 @@
 		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="-1"/>
 		<attribute key="defense" value="40"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="18000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -45045,7 +45045,7 @@
 		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="-1"/>
 		<attribute key="defense" value="40"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="18000"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -45578,7 +45578,7 @@
 		<attribute key="absorbpercentpoison" value="12"/>
 		<attribute key="absorbpercentfire" value="-5"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="13"/>
+		<attribute key="armor" value="26"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -45657,7 +45657,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentenergy" value="10"/>
 		<attribute key="magicpoints" value="3"/>
-		<attribute key="armor" value="12"/>
+		<attribute key="armor" value="24"/>
 		<attribute key="weight" value="2500"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -45673,7 +45673,7 @@
 		<attribute key="slotType" value="feet"/>
 		<attribute key="absorbpercentpoison" value="8"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -45714,7 +45714,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="absorbpercentice" value="3"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3400"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -47063,7 +47063,7 @@
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="absorbpercentice" value="-5"/>
 		<attribute key="absorbpercentfire" value="6"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="490"/>
 	</item>
 	<item id="30324" article="a" name="bright bell">
@@ -47125,12 +47125,12 @@
 		<attribute key="skilldist" value="3"/>
 		<attribute key="duration" value="3600"/>
 		<attribute key="decayTo" value="30343"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="430"/>
 	</item>
 	<item id="30343" article="a" name="enchanted sleep shawl">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="430"/>
 	</item>
 	<item id="30344" article="an" name="enchanted pendulet">
@@ -47142,12 +47142,12 @@
 		<attribute key="skilldist" value="3"/>
 		<attribute key="duration" value="7200"/>
 		<attribute key="decayTo" value="30345"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="650"/>
 	</item>
 	<item id="30345" article="a" name="enchanted pendulet">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="650"/>
 	</item>
 	<item fromid="30346" toid="30351" name="RESERVED SPRITE"/>
@@ -47242,7 +47242,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="6"/>
 		<attribute key="speed" value="20"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -47285,7 +47285,7 @@
 		<attribute key="skillclub" value="1"/>
 		<attribute key="skillaxe" value="1"/>
 		<attribute key="skillsword" value="1"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="2700"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -47348,12 +47348,12 @@
 		<attribute key="magicpoints" value="3"/>
 		<attribute key="duration" value="7200"/>
 		<attribute key="decayTo" value="30403"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="30403" name="enchanted theurgic amulet">
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item fromid="30404" toid="30406" name="RESERVED SPRITE"/>
@@ -48673,7 +48673,7 @@
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="absorbpercentice" value="-10"/>
 		<attribute key="absorbpercentfire" value="6"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="570"/>
 	</item>
 	<item id="31557" article="a" name="blister ring">
@@ -48736,7 +48736,7 @@
 		<attribute key="skillclub" value="2"/>
 		<attribute key="skillaxe" value="2"/>
 		<attribute key="skillsword" value="2"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="3100"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -48753,7 +48753,7 @@
 		<attribute key="absorbpercentpoison" value="11"/>
 		<attribute key="absorbpercentfire" value="-2"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="4400"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -48769,7 +48769,7 @@
 		<attribute key="absorbpercentice" value="11"/>
 		<attribute key="absorbpercentenergy" value="-3"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="2400"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -48820,7 +48820,7 @@
 		<attribute key="absorbpercentdeath" value="6"/>
 		<attribute key="absorbpercentholy" value="-3"/>
 		<attribute key="magicpoints" value="2"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2300"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -48832,7 +48832,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="absorbpercentdeath" value="6"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="5200"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="1">
@@ -48962,7 +48962,7 @@
 		<attribute key="absorbpercentpoison" value="7"/>
 		<attribute key="skilldist" value="1"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -49011,7 +49011,7 @@
 		<attribute key="description" value="The bearer of this amulet will command the gaze, the resilience and deadliness of the cobra. Yet what firmly has its place in the heart of its wearer, the cobra will conceal"/>
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="absorbpercentdeath" value="9"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="530"/>
 	</item>
 	<item id="31632" article="the" name="missing piece of the cube">
@@ -50250,7 +50250,7 @@
 		<attribute key="skillclub" value="2"/>
 		<attribute key="skillaxe" value="2"/>
 		<attribute key="skillsword" value="2"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="5500"/>
 	</item>
 	<item id="32618" article="a" name="soulful legs">
@@ -50258,7 +50258,7 @@
 		<attribute key="loottype" value="legs"/>
 		<attribute key="absorbpercentholy" value="8"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="3800"/>
 	</item>
 	<item id="32619" name="pair of nightmare boots">
@@ -50266,7 +50266,7 @@
 		<attribute key="loottype" value="boots"/>
 		<attribute key="absorbpercentenergy" value="6"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1300"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -50315,7 +50315,7 @@
 		<attribute key="loottype" value="armor"/>
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="12300"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -50337,7 +50337,7 @@
 		<attribute key="description" value="Every time you look away you have a strange feeling, as if something watches you from its depths"/>
 		<attribute key="slotType" value="head"/>
 		<attribute key="loottype" value="helmet"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="1250"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="mana leech" value="3"/>
@@ -50436,7 +50436,7 @@
 	</item>
 	<item id="32705" article="a" name="pair of old bracers">
 		<attribute key="slotType" value="body"/>
-		<attribute key="armor" value="1"/>
+		<attribute key="armor" value="2"/>
 		<attribute key="weight" value="20"/>
 	</item>
 	<item id="32706" article="a" name="unknow">
@@ -52364,14 +52364,14 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentdeath" value="10"/>
 		<attribute key="magicpoints" value="3"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="3800"/>
 	</item>
 	<item id="34093" article="a" name="soulstrider">
 		<attribute key="slotType" value="legs"/>
 		<attribute key="absorbpercentfire" value="10"/>
 		<attribute key="magicpoints" value="3"/>
-		<attribute key="armor" value="10"/>
+		<attribute key="armor" value="20"/>
 		<attribute key="weight" value="3800"/>
 	</item>
 	<item id="34094" article="a" name="soulshell">
@@ -52380,7 +52380,7 @@
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="absorbpercentfire" value="15"/>
 		<attribute key="skilldist" value="4"/>
-		<attribute key="armor" value="18"/>
+		<attribute key="armor" value="36"/>
 		<attribute key="weight" value="12300"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -52398,7 +52398,7 @@
 		<attribute key="loottype" value="armor"/>
 		<attribute key="absorbpercentphysical" value="4"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="2400"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -52416,7 +52416,7 @@
 		<attribute key="loottype" value="armor"/>
 		<attribute key="absorbpercentdeath" value="10"/>
 		<attribute key="magicpoints" value="4"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="2400"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -52438,7 +52438,7 @@
 		<attribute key="skillaxe" value="1"/>
 		<attribute key="skillsword" value="1"/>
 		<attribute key="speed" value="30"/>
-		<attribute key="armor" value="4"/>
+		<attribute key="armor" value="8"/>
 		<attribute key="weight" value="1300"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -52450,7 +52450,7 @@
 		<attribute key="absorbpercentphysical" value="5"/>
 		<attribute key="skilldist" value="1"/>
 		<attribute key="speed" value="40"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="1300"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -52798,7 +52798,7 @@
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="absorbpercentpoison" value="5"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="3000"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -52817,7 +52817,7 @@
 		<attribute key="skillclub" value="3"/>
 		<attribute key="skillaxe" value="3"/>
 		<attribute key="skillsword" value="3"/>
-		<attribute key="armor" value="17"/>
+		<attribute key="armor" value="34"/>
 		<attribute key="weight" value="15000"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -52837,7 +52837,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="3"/>
 		<attribute key="absorbpercentice" value="7"/>
-		<attribute key="armor" value="3"/>
+		<attribute key="armor" value="6"/>
 		<attribute key="weight" value="520"/>
 	</item>
 	<item id="34160" article="a" name="lion crest" plural="lion crests">
@@ -53674,7 +53674,7 @@
 		<attribute key="slotType" value="legs"/>
 		<attribute key="loottype" value="legs"/>
 		<attribute key="absorbpercentphysical" value="4"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="7200"/>
 	</item>
 	<item id="35517" name="bast legs">
@@ -53682,7 +53682,7 @@
 		<attribute key="loottype" value="legs"/>
 		<attribute key="absorbpercentenergy" value="4"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="8"/>
+		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="6400"/>
 	</item>
 	<item id="35518" article="a" name="jungle bow">
@@ -53710,7 +53710,7 @@
 		<attribute key="loottype" value="boots"/>
 		<attribute key="absorbpercentfire" value="6"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1450"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -53721,7 +53721,7 @@
 		<attribute key="loottype" value="boots"/>
 		<attribute key="absorbpercentice" value="6"/>
 		<attribute key="magicpoints" value="1"/>
-		<attribute key="armor" value="2"/>
+		<attribute key="armor" value="4"/>
 		<attribute key="weight" value="1200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3"/>
@@ -54508,7 +54508,7 @@
 		<attribute key="slotType" value="body"/>
 		<attribute key="loottype" value="armor"/>
 		<attribute key="absorbpercentphysical" value="10"/>
-		<attribute key="armor" value="16"/>
+		<attribute key="armor" value="32"/>
 		<attribute key="weight" value="11000"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -54573,7 +54573,7 @@
 		<attribute key="absorbpercentphysical" value="2"/>
 		<attribute key="absorbpercentholy" value="7"/>
 		<attribute key="skilldist" value="2"/>
-		<attribute key="armor" value="9"/>
+		<attribute key="armor" value="18"/>
 		<attribute key="weight" value="6900"/>
 	</item>
 	<item id="36668" article="a" name="eldritch wand">
@@ -54611,7 +54611,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="loottype" value="helmet"/>
 		<attribute key="absorbpercentice" value="7"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2600"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
@@ -54627,7 +54627,7 @@
 		<attribute key="slotType" value="head"/>
 		<attribute key="loottype" value="helmet"/>
 		<attribute key="absorbpercentpoison" value="7"/>
-		<attribute key="armor" value="7"/>
+		<attribute key="armor" value="14"/>
 		<attribute key="weight" value="2700"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
