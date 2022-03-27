@@ -77,7 +77,7 @@ monster.loot = {
 	{id = 3116, chance = 500, maxCount = 2},
 	{name = "Book Page", chance = 500, maxCount = 4},
 	{name = "Glowing Rune", chance = 500, maxCount = 2},
-	{name = "Platinum Coin", chance = 10000, maxCount = 5},
+	{name = "platinum coin", chance = 10000, maxCount = 5 * 3},
 	{name = "Silken Bookmark", chance = 500, maxCount = 3}
 }
 

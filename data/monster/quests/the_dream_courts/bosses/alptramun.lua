@@ -69,7 +69,7 @@ monster.loot = {
 	{name = "Purple Tendril Lantern", chance = 100000000},
 	{name = "crystal coin", chance = 100000000, maxCount = 2},
 	{name = "blue gem", chance = 100000000},
-	{name = "platinum coin", chance = 29580, maxCount = 5},
+	{name = "platinum coin", chance = 29580, maxCount = 5 * 3},
 	{name = "supreme health potion", chance = 21540, maxCount = 20},
 	{name = "ultimate spirit potion", chance = 22540, maxCount = 20},
 	{name = "royal star", chance = 26540, maxCount = 100},

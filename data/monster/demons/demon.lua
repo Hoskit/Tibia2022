@@ -101,7 +101,7 @@ monster.loot = {
 	{id= 3039, chance = 2220},
 	{name = "demonic essence", chance = 14630},
 	{name = "talon", chance = 3430},
-	{name = "platinum coin", chance = 90540, maxCount = 8},
+	{name = "platinum coin", chance = 90540, maxCount = 8 * 3},
 	{name = "might ring", chance = 1890},
 	{id = 3049, chance = 2170}, -- Stealth ring
 	{name = "platinum amulet", chance = 680},

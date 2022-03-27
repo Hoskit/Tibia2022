@@ -78,7 +78,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{name = "platinum coin", chance = 1000000, maxCount = 13},
+	{name = "platinum coin", chance = 1000000, maxCount = 13 * 3},
 	{name = "elven astral observer", chance = 1000000, maxCount = 2},
 	{name = "dream essence egg", chance = 15000},
 	{name = "belted cape", chance = 11550},

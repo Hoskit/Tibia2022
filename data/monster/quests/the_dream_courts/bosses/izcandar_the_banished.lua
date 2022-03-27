@@ -74,7 +74,7 @@ monster.loot = {
 	{name = "huge chunk of crude iron", chance = 25100},
 	{name = "mysterious remains", chance = 25000},
 	{name = "piggy bank", chance = 12800},
-	{name = "platinum coin", chance = 12000, maxCount = 10},
+	{name = "platinum coin", chance = 12000, maxCount = 10 * 3},
 	{name = "supreme health potion", chance = 12000, maxCount = 10},
 	{name = "ultimate mana potion", chance = 12000, maxCount = 20}
 }

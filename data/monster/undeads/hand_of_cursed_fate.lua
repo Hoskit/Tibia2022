@@ -81,7 +81,7 @@ monster.loot = {
 	{name = "gold coin", chance = 60000, maxCount = 100},
 	{name = "gold coin", chance = 60000, maxCount = 100},
 	{name = "gold coin", chance = 50000, maxCount = 67},
-	{name = "platinum coin", chance = 100000, maxCount = 7},
+	{name = "platinum coin", chance = 100000, maxCount = 7 * 3},
 	{name = "violet gem", chance = 700},
 	{name = "yellow gem", chance = 5940},
 	{id = 3051, chance = 3150}, -- Energy ring

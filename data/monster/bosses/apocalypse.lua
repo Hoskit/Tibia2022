@@ -80,8 +80,8 @@ monster.loot = {
 	{id = 3051, chance = 13500}, -- Energy ring
 	{name = "fire axe", chance = 17000},
 	{name = "giant sword", chance = 12500},
-	{name = "platinum coin", chance = 69900, maxCount = 100},
-	{name = "platinum coin", chance = 68800, maxCount = 100},
+	{name = "platinum coin", chance = 69900, maxCount = 100 * 3},
+	{name = "platinum coin", chance = 68800, maxCount = 100 * 3},
 	{name = "crystal coin", chance = 47700, maxCount = 40},
 	{name = "crystal coin", chance = 36600, maxCount = 15},
 	{name = "gold ring", chance = 28000},

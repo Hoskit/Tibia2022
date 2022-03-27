@@ -80,7 +80,7 @@ monster.voices = {
 monster.loot = {
 	{name = "power bolt", chance = 1000000},
 	{name = "small enchanted sapphire", chance = 1000000, maxCount = 2},
-	{name = "platinum coin", chance = 1000000, maxCount = 5},
+	{name = "platinum coin", chance = 1000000, maxCount = 5 * 3},
 	{id = 5921, chance = 1500},
 	{name = "dream essence egg", chance = 1155},
 	{name = "elvish talisman", chance = 1355},

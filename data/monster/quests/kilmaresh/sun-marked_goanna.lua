@@ -61,7 +61,7 @@ monster.voices = {
 
 monster.loot = {
 	{name = "Goanna Hide with Sun Symbol", chance = 100000},
-	{name = "Platinum Coin", chance = 100000, maxCount = 3},
+	{name = "platinum coin", chance = 100000, maxCount = 3 * 3},
 	{name = "Envenomed Arrow", chance = 50000, maxCount = 29},
 	{name = "Poison Dagger", chance = 50000},
 	{name = "Scared Frog", chance = 50000}

@@ -79,7 +79,7 @@ monster.loot = {
 	{name = "blood preservation", chance = 94000},
 	{name = "vampire shield", chance = 22000},
 	{name = "strong health potion", chance = 18000},
-	{name = "platinum coin", chance = 12000, maxCount = 5},
+	{name = "platinum coin", chance = 12000, maxCount = 5 * 3},
 	{id = 3098, chance = 12000}, -- Ring of healing
 	{id = 3114, chance = 12000},
 	{name = "spellbook of lost souls", chance = 2000}

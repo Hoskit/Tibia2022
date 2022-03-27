@@ -85,7 +85,7 @@ monster.loot = {
 	{name = "small sapphire", chance = 28370, maxCount = 2},
 	{name = "gold coin", chance = 35500, maxCount = 100},
 	{name = "gold coin", chance = 55500, maxCount = 98},
-	{name = "platinum coin", chance = 52000, maxCount = 5},
+	{name = "platinum coin", chance = 52000, maxCount = 5 * 3},
 	{name = "life crystal", chance = 2500},
 	{name = "war axe", chance = 1290},
 	{name = "golden armor", chance = 860},
