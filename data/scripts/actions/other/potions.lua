@@ -1,17 +1,17 @@
 local berserk = Condition(CONDITION_ATTRIBUTES)
 berserk:setParameter(CONDITION_PARAM_TICKS, 10 * 60 * 1000)
-berserk:setParameter(CONDITION_PARAM_SKILL_MELEE, 5)
+berserk:setParameter(CONDITION_PARAM_SKILL_MELEE, 15)
 berserk:setParameter(CONDITION_PARAM_SKILL_SHIELD, -10)
 berserk:setParameter(CONDITION_PARAM_BUFF_SPELL, true)
 
 local mastermind = Condition(CONDITION_ATTRIBUTES)
 mastermind:setParameter(CONDITION_PARAM_TICKS, 10 * 60 * 1000)
-mastermind:setParameter(CONDITION_PARAM_STAT_MAGICPOINTS, 3)
+mastermind:setParameter(CONDITION_PARAM_STAT_MAGICPOINTS, 9)
 mastermind:setParameter(CONDITION_PARAM_BUFF_SPELL, true)
 
 local bullseye = Condition(CONDITION_ATTRIBUTES)
 bullseye:setParameter(CONDITION_PARAM_TICKS, 10 * 60 * 1000)
-bullseye:setParameter(CONDITION_PARAM_SKILL_DISTANCE, 5)
+bullseye:setParameter(CONDITION_PARAM_SKILL_DISTANCE, 15)
 bullseye:setParameter(CONDITION_PARAM_SKILL_SHIELD, -10)
 bullseye:setParameter(CONDITION_PARAM_BUFF_SPELL, true)
 
@@ -80,8 +80,8 @@ local potions = {
 	},
 	[236] = {
 		health = {
-			250,
-			350
+			250 * 3,
+			350 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN,
@@ -93,8 +93,8 @@ local potions = {
 	},
 	[237] = {
 		mana = {
-			115,
-			185
+			115 * 3,
+			185 * 3
 		},
 		level = 50,
 		flask = 283,
@@ -102,8 +102,8 @@ local potions = {
 	},
 	[238] = {
 		mana = {
-			150,
-			250
+			150 * 3,
+			250 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.SORCERER,
@@ -116,8 +116,8 @@ local potions = {
 	},
 	[239] = {
 		health = {
-			425,
-			575
+			425 * 3,
+			575 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT
@@ -128,26 +128,26 @@ local potions = {
 	},
 	[266] = {
 		health = {
-			125,
-			175
+			125 * 3,
+			175 * 3
 		},
 		flask = 285
 	},
 	[268] = {
 		mana = {
-			75,
-			125
+			75 * 3,
+			125 * 3
 		},
 		flask = 285
 	},
 	[7642] = {
 		health = {
-			250,
-			350
+			250 * 3,
+			350 * 3
 		},
 		mana = {
-			100,
-			200
+			100 * 3,
+			200 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN
@@ -157,7 +157,7 @@ local potions = {
 		description = "Only paladins of level 80 or above may drink this fluid."
 	},
 	[7643] = {
-		health = {650, 850},
+		health = {650 * 3, 850 * 3},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT
 		},
@@ -171,15 +171,15 @@ local potions = {
 	},
 	[7876] = {
 		health = {
-			60,
-			90
+			60 * 3,
+			90 * 3
 		},
 		flask = 285
 	},
 	[23373] = {
 		mana = {
-			425,
-			575
+			425 * 3,
+			575 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.SORCERER,
@@ -191,12 +191,12 @@ local potions = {
 	},
 	[23374] = {
 		health = {
-			420,
-			580
+			420 * 3,
+			580 * 3
 		},
 		mana = {
-			250,
-			350
+			250 * 3,
+			350 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN
@@ -207,8 +207,8 @@ local potions = {
 	},
 	[23375] = {
 		health = {
-			875,
-			1125
+			875 * 3,
+			1125 * 3
 		},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT
