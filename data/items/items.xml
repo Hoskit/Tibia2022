@@ -1763,7 +1763,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentpoison" value="20"/>
 		<attribute key="absorbpercentfire" value="-10"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="815" article="a" name="glacier amulet">
@@ -1772,7 +1772,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentice" value="20"/>
 		<attribute key="absorbpercentenergy" value="-10"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="816" article="a" name="lightning pendant">
@@ -1781,7 +1781,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentpoison" value="-10"/>
 		<attribute key="absorbpercentenergy" value="20"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="817" article="a" name="magma amulet">
@@ -1790,7 +1790,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentice" value="-10"/>
 		<attribute key="absorbpercentfire" value="20"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="818" name="magma boots">
@@ -4750,7 +4750,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentenergy" value="10"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="290"/>
 	</item>
 	<item id="3046" article="a" name="magic light wand">
@@ -4774,7 +4774,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentall" value="20"/>
-		<attribute key="charges" value="20"/>
+		<attribute key="charges" value="200"/>
 		<attribute key="weight" value="100"/>
 	</item>
 	<item id="3049" article="a" name="stealth ring">
@@ -4817,7 +4817,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentpoison" value="10"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="3055" article="a" name="platinum amulet">
@@ -4831,7 +4831,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentmanadrain" value="20"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="3057" article="an" name="amulet of loss">
@@ -4987,7 +4987,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="80"/>
 		<attribute key="absorbpercentdeath" value="80"/>
-		<attribute key="charges" value="5"/>
+		<attribute key="charges" value="50"/>
 		<attribute key="weight" value="700"/>
 	</item>
 	<item id="3082" article="an" name="elven amulet">
@@ -4995,7 +4995,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentall" value="5"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="270"/>
 	</item>
 	<item id="3083" article="a" name="garlic necklace">
@@ -5003,7 +5003,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentlifedrain" value="20"/>
-		<attribute key="charges" value="150"/>
+		<attribute key="charges" value="1500"/>
 		<attribute key="weight" value="380"/>
 	</item>
 	<item id="3084" article="a" name="protection amulet">
@@ -5011,7 +5011,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="6"/>
-		<attribute key="charges" value="250"/>
+		<attribute key="charges" value="2500"/>
 		<attribute key="weight" value="550"/>
 	</item>
 	<item id="3085" article="a" name="dragon necklace">
@@ -5019,7 +5019,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentfire" value="8"/>
-		<attribute key="charges" value="200"/>
+		<attribute key="charges" value="2000"/>
 		<attribute key="weight" value="630"/>
 	</item>
 	<item id="3086" article="a" name="stealth ring">
@@ -5387,7 +5387,7 @@
 	<item id="3174" article="a" name="light magic missile rune">
 		<attribute key="type" value="rune"/>
 		<attribute key="runespellname" value="adori min vis"/>
-		<attribute key="charges" value="10"/>
+		<attribute key="charges" value="100"/>
 		<attribute key="weight" value="21"/>
 	</item>
 	<item id="3175" article="a" name="stone shower rune">
@@ -5417,7 +5417,7 @@
 	<item id="3179" article="a" name="stalagmite rune">
 		<attribute key="type" value="rune"/>
 		<attribute key="runespellname" value="adori tera"/>
-		<attribute key="charges" value="10"/>
+		<attribute key="charges" value="100"/>
 		<attribute key="weight" value="21"/>
 	</item>
 	<item id="3180" article="a" name="magic wall rune">
@@ -5493,7 +5493,7 @@
 	<item id="3198" article="a" name="heavy magic missile rune">
 		<attribute key="type" value="rune"/>
 		<attribute key="runespellname" value="adori vis"/>
-		<attribute key="charges" value="10"/>
+		<attribute key="charges" value="100"/>
 		<attribute key="weight" value="21"/>
 	</item>
 	<item id="3199" article="a" name="spell rune">
@@ -5975,7 +5975,7 @@
 		<attribute key="description" value="A deadly but fragile weapon"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementice" value="18"/>
-		<attribute key="charges" value="1"/>
+		<attribute key="charges" value="100"/>
 		<attribute key="attack" value="42"/>
 		<attribute key="defense" value="1"/>
 		<attribute key="weight" value="1500"/>
@@ -19780,7 +19780,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="60"/>
 		<attribute key="absorbpercentfire" value="40"/>
-		<attribute key="charges" value="5"/>
+		<attribute key="charges" value="50"/>
 		<attribute key="weight" value="700"/>
 	</item>
 	<item id="9302" article="a" name="sacred tree amulet">
@@ -19790,7 +19790,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="60"/>
 		<attribute key="absorbpercentpoison" value="40"/>
-		<attribute key="charges" value="5"/>
+		<attribute key="charges" value="50"/>
 		<attribute key="weight" value="700"/>
 	</item>
 	<item id="9303" article="a" name="leviathan's amulet">
@@ -19799,7 +19799,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="absorbpercentphysical" value="60"/>
 		<attribute key="absorbpercentice" value="40"/>
-		<attribute key="charges" value="5"/>
+		<attribute key="charges" value="50"/>
 		<attribute key="weight" value="700"/>
 	</item>
 	<item id="9304" article="a" name="shockwave amulet">
@@ -19808,7 +19808,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="absorbpercentphysical" value="60"/>
 		<attribute key="absorbpercentenergy" value="40"/>
-		<attribute key="charges" value="5"/>
+		<attribute key="charges" value="50"/>
 		<attribute key="weight" value="700"/>
 	</item>
 	<item id="9306" article="a" name="mechanical fishing rod">
@@ -24506,7 +24506,7 @@
 	</item>
 	<item id="12699" article="a" name="magic gold converter">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 	</item>
 	<item fromid="12713" toid="12716" name="toad pedestal"/>
@@ -25565,7 +25565,7 @@
 		<attribute key="showCharges" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentlifedrain" value="50"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="13991" article="a" name="deepling axe">
@@ -27313,7 +27313,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="15"/>
 		<attribute key="absorbpercentpoison" value="10"/>
-		<attribute key="charges" value="750"/>
+		<attribute key="charges" value="7500"/>
 		<attribute key="weight" value="409"/>
 	</item>
 	<item id="16109" article="a" name="prismatic helmet">
@@ -27365,7 +27365,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="10"/>
 		<attribute key="absorbpercentenergy" value="15"/>
-		<attribute key="charges" value="750"/>
+		<attribute key="charges" value="7500"/>
 		<attribute key="weight" value="650"/>
 	</item>
 	<item id="16114" article="a" name="prismatic ring">
@@ -28432,7 +28432,7 @@
 	<item id="17512" article="a" name="lightest magic missile rune">
 		<attribute key="type" value="rune"/>
 		<attribute key="runespellname" value="adori dis min vis"/>
-		<attribute key="charges" value="10"/>
+		<attribute key="charges" value="100"/>
 		<attribute key="weight" value="21"/>
 	</item>
 	<item id="17513" article="a" name="can of oil">
@@ -34351,7 +34351,7 @@
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="10"/>
 		<attribute key="absorbpercentmagic" value="10"/>
-		<attribute key="charges" value="20"/>
+		<attribute key="charges" value="200"/>
 		<attribute key="weight" value="220"/>
 	</item>
 	<item id="21184" article="a" name="cup of cowcoa">
@@ -38545,7 +38545,7 @@
 	</item>
 	<item id="23722" article="a" name="gold converter">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="1800"/>
 	</item>
@@ -40000,7 +40000,7 @@
 	<item id="25719" article="a" name="temporary gold converter">
 		<attribute key="description" value="You bought this item in the Store or gained it as a daily reward. This item cannot be traded."/>
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="300"/>
 	</item>
 	<item id="25720" article="a" name="reward shrine">
@@ -40548,73 +40548,73 @@
 	</item>
 	<item id="25903" article="a" name="health keg">
 		<attribute key="description" value="This keg can be used to refill health potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="67500"/>
 	</item>
 	<item id="25904" article="a" name="strong health keg">
 		<attribute key="description" value="This keg can be used to refill strong health potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="72500"/>
 	</item>
 	<item id="25905" article="a" name="great health keg">
 		<attribute key="description" value="This keg can be used to refill great health potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>
 	</item>
 	<item id="25906" article="an" name="ultimate health keg">
 		<attribute key="description" value="This keg can be used to refill ultimate health potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>
 	</item>
 	<item id="25907" article="a" name="supreme health keg">
 		<attribute key="description" value="This keg can be used to refill supreme health potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="87500"/>
 	</item>
 	<item id="25908" article="a" name="mana keg">
 		<attribute key="description" value="This keg can be used to refill mana potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="67500"/>
 	</item>
 	<item id="25909" article="a" name="strong mana keg">
 		<attribute key="description" value="This keg can be used to refill strong mana potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="72500"/>
 	</item>
 	<item id="25910" article="a" name="great mana keg">
 		<attribute key="description" value="This keg can be used to refill great mana potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>
 	</item>
 	<item id="25911" article="an" name="ultimate mana keg">
 		<attribute key="description" value="This keg can be used to refill ultimate mana potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>
 	</item>
 	<item id="25912" article="a" name="supreme mana keg">
 		<attribute key="description" value="This keg can be used to refill supreme mana potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="12500"/>
 	</item>
 	<item id="25913" article="a" name="great spririt keg">
 		<attribute key="description" value="This keg can be used to refill great spririt potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="12500"/>
 	</item>
 	<item id="25914" article="an" name="ultimate spirit keg">
 		<attribute key="description" value="This keg can be used to refill ultimate spririt potions"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>
 	</item>
@@ -43564,12 +43564,12 @@
 	<item id="28525" article="a" name="magic gold converter">
 		<attribute key="description" value="It is actually in the inactive state"/>
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="wrapableto" value="23398"/>
 	</item>
 	<item id="28526" article="a" name="magic gold converter">
 		<attribute key="description" value="It is actually in the active state"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 	</item>
 	<item fromid="28527" toid="28534" article="a" name="ritual pedestal"/>
 	<!-- unconfirmed name -->
@@ -43590,63 +43590,63 @@
 	<item id="28539" article="a" name="bonelord statue"/>
 	<item id="28540" article="a" name="training sword">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28541" article="a" name="training axe">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28542" article="a" name="training club">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28543" article="a" name="training bow">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28544" article="a" name="training rod">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28545" article="a" name="training wand">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="50"/>
+		<attribute key="charges" value="500"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item fromid="28546" toid="28551" name="RESERVED SPRITE"/>
 	<item id="28552" article="an" name="exercise sword">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28553" article="an" name="exercise axe">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28554" article="an" name="exercise club">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28555" article="an" name="exercise bow">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28556" article="an" name="exercise rod">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28557" article="an" name="exercise wand">
 		<attribute key="showCharges" value="1"/>
-		<attribute key="charges" value="500"/>
+		<attribute key="charges" value="5000"/>
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item id="28558" article="an" name="exercise dummy">
