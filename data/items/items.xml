@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 	<!--  Liquids -->
 	<item id="1" name="water" />
@@ -5938,6 +5938,7 @@
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="2300"/>
 		<attribute key="upgradeclassification" value="2"/>
+		<attribute key="range" value="2"/>
 	</item>
 	<item id="3281" article="a" name="giant sword">
 		<attribute key="description" value="This sword has been forged by ancient giants"/>

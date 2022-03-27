@@ -219,7 +219,7 @@ uint64_t Vocation::getReqMana(uint32_t magLevel)
 		return it->second;
 	}
 
-	uint64_t reqMana = std::floor<uint64_t>(200 * std::pow<double>(static_cast<int32_t>(magLevel) - 1, manaMultiplier));
+	uint64_t reqMana = std::floor<uint64_t>(200 * std::pow<double>(static_cast<int32_t>(magLevel) + 1, manaMultiplier));
 	cacheMana[magLevel] = reqMana;
 	return reqMana;
 }
