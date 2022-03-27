@@ -112,7 +112,7 @@ monster.elements = {
 	{type = COMBAT_DROWNDAMAGE, percent = 0},
 	{type = COMBAT_ICEDAMAGE, percent = 100},
 	{type = COMBAT_HOLYDAMAGE , percent = 0},
-	{type = COMBAT_DEATHDAMAGE , percent = -50}
+	{type = COMBAT_DEATHDAMAGE , percent = -100}
 }
 
 monster.heals = {
