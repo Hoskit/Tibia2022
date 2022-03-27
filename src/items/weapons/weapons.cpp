@@ -365,7 +365,7 @@ CombatDamage Weapon::getCombatDamage(CombatDamage combat, Player * player, Item 
 
 	//Calculating damage
 	int32_t maxDamage = static_cast<int32_t>(Weapons::getMaxWeaponDamage(level, playerSkill, totalAttack, attackFactor, true) * player->getVocation()->meleeDamageMultiplier * damageModifier / 100);
-	int32_t minDamage = level / 5;
+	int32_t minDamage = maxDamage / 2;
 	int32_t realDamage = normal_random(minDamage, maxDamage);
 
 	//Setting damage to combat
