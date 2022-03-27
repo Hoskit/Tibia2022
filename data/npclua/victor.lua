@@ -49,10 +49,10 @@ end
 npcHandler:addModule(FocusModule:new())
 
 npcConfig.shop = {
-	{ itemName = "great health potion", clientId = 239, buy = 300 },
-	{ itemName = "health potion", clientId = 266, buy = 75 },
-	{ itemName = "strong health potion", clientId = 236, buy = 150 },
-	{ itemName = "ultimate health potion", clientId = 7643, buy = 500 }
+	{ itemName = "great health potion", clientId = 239, buy = 225 * 5 },
+	{ itemName = "health potion", clientId = 266, buy = 50 * 5 },
+	{ itemName = "strong health potion", clientId = 236, buy = 115 * 5 },
+	{ itemName = "ultimate health potion", clientId = 7643, buy = 379 * 5 }
 }
 -- On buy npc shop message
 npcType.onBuyItem = function(npc, player, itemId, subType, amount, inBackpacks, name, totalCost)
