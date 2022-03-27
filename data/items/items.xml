@@ -5932,8 +5932,8 @@
 	<item id="3280" article="a" name="fire sword (2 range)">
 		<attribute key="description" value="The blade is a magic flame"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementfire" value="11"/>
-		<attribute key="attack" value="24"/>
+		<attribute key="elementfire" value="27"/>
+		<attribute key="attack" value="16"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="2300"/>
