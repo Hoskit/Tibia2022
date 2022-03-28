@@ -2304,7 +2304,7 @@ void Player::onAttackedCreatureBlockHit(BlockType_t blockType)
 	switch (blockType) {
 		case BLOCK_NONE: {
 			addAttackSkillPoint = true;
-			bloodHitCount = 30;
+			bloodHitCount = 300;
 			shieldBlockCount = 30;
 			break;
 		}
