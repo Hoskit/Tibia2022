@@ -7269,7 +7269,7 @@
 	</item>
 	<item id="3415" article="a" name="guardian shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="30"/>
+		<attribute key="defense" value="38"/>
 		<attribute key="weight" value="5500"/>
 	</item>
 	<item id="3416" article="a" name="dragon shield">
@@ -7308,7 +7308,7 @@
 	</item>
 	<item id="3419" article="a" name="crown shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="32"/>
+		<attribute key="defense" value="43"/>
 		<attribute key="weight" value="6200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7393,7 +7393,7 @@
 	</item>
 	<item id="3428" article="a" name="tower shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="32"/>
+		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="8200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7452,7 +7452,7 @@
 	<item id="3434" article="a" name="vampire shield">
 		<attribute key="description" value="Dark powers enchant this shield"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="34"/>
+		<attribute key="defense" value="40"/>
 		<attribute key="weight" value="3800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7480,7 +7480,7 @@
 	</item>
 	<item id="3436" article="a" name="medusa shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="33"/>
+		<attribute key="defense" value="45"/>
 		<attribute key="weight" value="5800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7494,7 +7494,7 @@
 	</item>
 	<item id="3437" article="an" name="amazon shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="32"/>
+		<attribute key="defense" value="39"/>
 		<attribute key="weight" value="6200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7514,7 +7514,7 @@
 	<item id="3439" article="a" name="phoenix shield">
 		<attribute key="description" value="This shield feels warm to the touch"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="34"/>
+		<attribute key="defense" value="49"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -25848,7 +25848,7 @@
 	</item>
 	<item id="14042" article="a" name="warrior's shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="33"/>
+		<attribute key="defense" value="42"/>
 		<attribute key="weight" value="7500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -32261,7 +32261,7 @@
 	<item id="19363" article="a" name="runic ice shield">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="defense" value="31"/>
+		<attribute key="defense" value="46"/>
 		<attribute key="weight" value="4900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -32307,7 +32307,7 @@
 	<item id="19373" article="a" name="haunted mirror piece">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="defense" value="34"/>
+		<attribute key="defense" value="50"/>
 		<attribute key="weight" value="2800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -34295,7 +34295,7 @@
 	</item>
 	<item id="21175" article="a" name="mino shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="31"/>
+		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="6500"/>
 	</item>
 	<item id="21176" article="an" name="execowtioner axe">
