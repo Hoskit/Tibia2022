@@ -5846,8 +5846,8 @@
 	<item id="3271" article="a" name="spike sword">
 		<attribute key="description" value="It can be enchanted with an element."/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="24"/>
-		<attribute key="extradef" value="2"/>
+		<attribute key="attack" value="21"/>
+		<attribute key="extradef" value="4"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5000"/>
 		<attribute key="upgradeclassification" value="1"/>
