@@ -7,7 +7,7 @@ combat:setParameter(COMBAT_PARAM_USECHARGES, 1)
 
 function onGetFormulaValues(player, skill, attack, factor)
 	local skillTotal = skill * attack
-	local levelTotal = player:getLevel() / 5
+	local levelTotal = player:getLevel()
 	return -(((skillTotal * 0.02) + 4) + (levelTotal)) * 1.28, -(((skillTotal * 0.04) + 9) + (levelTotal)) * 1.28 -- TODO : Use New Real Formula instead of an %
 end
 
@@ -23,7 +23,7 @@ spell:group("attack")
 spell:id(61)
 spell:name("Brutal Strike")
 spell:words("exori ico")
-spell:level(16)
+spell:level(12)
 spell:mana(30)
 spell:isPremium(false)
 spell:range(1)
