@@ -7255,7 +7255,7 @@
 	<item id="3414" article="a" name="mastermind shield">
 		<attribute key="description" value="It's an enchanted shield"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="defense" value="55"/>
 		<attribute key="weight" value="5700"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7323,7 +7323,7 @@
 	<item id="3420" article="a" name="demon shield">
 		<attribute key="description" value="This powerful shield seems to be as light as air"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="35"/>
+		<attribute key="defense" value="48"/>
 		<attribute key="weight" value="2600"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7343,7 +7343,7 @@
 	<item id="3422" article="a" name="great shield">
 		<attribute key="description" value="The shield is made of dragon scales"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="38"/>
+		<attribute key="defense" value="65"/>
 		<attribute key="weight" value="8400"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -7538,7 +7538,7 @@
 	</item>
 	<item id="3442" article="a" name="tempest shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="36"/>
+		<attribute key="defense" value="56"/>
 		<attribute key="weight" value="5100"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -14079,7 +14079,7 @@
 	<item id="6390" article="a" name="nightmare shield">
 		<attribute key="description" value="It was crafted by the ancient order of the nightmare knights"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="defense" value="67"/>
 		<attribute key="weight" value="3200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -14108,7 +14108,7 @@
 	<item id="6432" article="a" name="necromancer shield">
 		<attribute key="description" value="It is enchanted with unholy, necromantic powers"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="defense" value="67"/>
 		<attribute key="weight" value="3200"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -23068,8 +23068,8 @@
 	<item id="11688" article="a" name="shield of corruption">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="skillsword" value="3"/>
-		<attribute key="defense" value="36"/>
+		<attribute key="skillsword" value="9"/>
+		<attribute key="defense" value="59"/>
 		<attribute key="weight" value="4900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -25665,7 +25665,7 @@
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="absorbpercentphysical" value="5"/>
-		<attribute key="defense" value="36"/>
+		<attribute key="defense" value="55"/>
 		<attribute key="weight" value="7100"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -25947,7 +25947,7 @@
 	</item>
 	<item id="14088" article="a" name="carapace shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="36"/>
+		<attribute key="defense" value="50"/>
 		<attribute key="weight" value="5500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -27390,9 +27390,9 @@
 	<item id="16116" article="a" name="prismatic shield">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showAttributes" value="1"/>
-		<attribute key="absorbpercentphysical" value="4"/>
+		<attribute key="absorbpercentphysical" value="15"/>
 		<attribute key="skillshield" value="2"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="7200"/>
 	</item>
 	<item id="16117" article="a" name="muck rod">
@@ -36997,7 +36997,7 @@
 	</item>
 	<item id="22726" article="a" name="rift shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="defense" value="53"/>
 		<attribute key="weight" value="6500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -37146,7 +37146,7 @@
 	</item>
 	<item id="22758" article="a" name="death gaze">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="defense" value="38"/>
+		<attribute key="defense" value="58"/>
 		<attribute key="weight" value="7900"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -42939,7 +42939,7 @@
 		<attribute key="absorbpercentice" value="-2"/>
 		<attribute key="absorbpercentenergy" value="8"/>
 		<attribute key="skillshield" value="2"/>
-		<attribute key="defense" value="38"/>
+		<attribute key="defense" value="68"/>
 		<attribute key="weight" value="6000"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -44456,9 +44456,9 @@
 	</item>
 	<item id="28721" article="a" name="falcon shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="absorbpercentphysical" value="6"/>
+		<attribute key="absorbpercentphysical" value="10"/>
 		<attribute key="absorbpercentfire" value="10"/>
-		<attribute key="defense" value="39"/>
+		<attribute key="defense" value="50"/>
 		<attribute key="weight" value="5700"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -44472,9 +44472,9 @@
 	</item>
 	<item id="28722" article="a" name="falcon escutcheon">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="absorbpercentphysical" value="7"/>
+		<attribute key="absorbpercentphysical" value="13"/>
 		<attribute key="absorbpercentfire" value="15"/>
-		<attribute key="defense" value="40"/>
+		<attribute key="defense" value="74"/>
 		<attribute key="weight" value="6000"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -45736,11 +45736,11 @@
 	</item>
 	<item id="29430" article="an" name="ectoplasmic shield">
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="absorbpercentice" value="7"/>
-		<attribute key="absorbpercentfire" value="-3"/>
-		<attribute key="skillclub" value="3"/>
-		<attribute key="skillaxe" value="3"/>
-		<attribute key="defense" value="37"/>
+		<attribute key="absorbpercentice" value="17"/>
+		<attribute key="absorbpercentfire" value="-13"/>
+		<attribute key="skillsword" value="5"/>
+		<attribute key="skillaxe" value="5"/>
+		<attribute key="defense" value="57"/>
 		<attribute key="weight" value="5800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -52459,9 +52459,9 @@
 	<item id="34099" article="a" name="soulbastion">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="loottype" value="shield"/>
-		<attribute key="absorbpercentphysical" value="10"/>
+		<attribute key="absorbpercentphysical" value="15"/>
 		<attribute key="absorbpercentdeath" value="10"/>
-		<attribute key="defense" value="42"/>
+		<attribute key="defense" value="82"/>
 		<attribute key="weight" value="5800"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -52762,7 +52762,7 @@
 		<attribute key="loottype" value="shield"/>
 		<attribute key="absorbpercentphysical" value="7"/>
 		<attribute key="absorbpercentpoison" value="10"/>
-		<attribute key="defense" value="39"/>
+		<attribute key="defense" value="50"/>
 		<attribute key="weight" value="6500"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
@@ -54384,8 +54384,8 @@
 	<item id="36656" article="a" name="eldritch shield">
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="loottype" value="shield"/>
-		<attribute key="absorbpercentphysical" value="4"/>
-		<attribute key="defense" value="39"/>
+		<attribute key="absorbpercentphysical" value="8"/>
+		<attribute key="defense" value="59"/>
 		<attribute key="weight" value="6600"/>
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3"/>
