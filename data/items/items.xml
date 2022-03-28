@@ -5056,10 +5056,10 @@
 		<attribute key="showduration" value="1"/>
 		<attribute key="showAttributes" value="1"/>
 		<attribute key="manaticks" value="6000"/>
-		<attribute key="managain" value="20"/>
+		<attribute key="managain" value="10"/>
 		<attribute key="healthticks" value="6000"/>
 		<attribute key="healthgain" value="10"/>
-		<attribute key="duration" value="12000"/>
+		<attribute key="duration" value="6000"/>
 		<attribute key="transformdeequipto" value="3052"/>
 		<attribute key="decayTo" value="0"/>
 		<attribute key="weight" value="80"/>
