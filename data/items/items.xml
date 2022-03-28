@@ -1944,7 +1944,7 @@
 	<item id="860" article="a" name="crimson sword">
 		<attribute key="description" value="Its blade is very notchy"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="28"/>
+		<attribute key="attack" value="24"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="3600"/>
@@ -15486,7 +15486,7 @@
 	<item id="7384" article="a" name="mystic blade">
 		<attribute key="description" value="This sword is only granted to a scrapper of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="44"/>
+		<attribute key="attack" value="34"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="weight" value="3500"/>
@@ -15542,7 +15542,7 @@
 	<item id="7389" article="a" name="heroic axe">
 		<attribute key="description" value="This axe is only granted to a scrapper of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="44"/>
+		<attribute key="attack" value="34"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="6100"/>
@@ -15800,7 +15800,7 @@
 	<item id="7415" article="a" name="cranial basher">
 		<attribute key="description" value="This club is only granted to a scrapper of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="44"/>
+		<attribute key="attack" value="34"/>
 		<attribute key="extradef" value="-2"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="7800"/>
