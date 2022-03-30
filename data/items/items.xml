@@ -5932,7 +5932,7 @@
 	<item id="3280" article="a" name="fire sword">
 		<attribute key="description" value="The blade is a magic flame (2 range)"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementfire" value="27"/>
+		<attribute key="elementfire" value="23"/>
 		<attribute key="attack" value="6"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="20"/>
@@ -6005,7 +6005,7 @@
 	<item id="3288" article="a" name="magic sword">
 		<attribute key="description" value="It's the Sword of Valor"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="52"/>
+		<attribute key="attack" value="51"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="4200"/>
@@ -15560,7 +15560,7 @@
 	<item id="7390" article="the" name="justice seeker">
 		<attribute key="description" value="This sword is only granted to a warlord of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="47"/>
+		<attribute key="attack" value="38"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="5000"/>
@@ -15717,7 +15717,7 @@
 	</item>
 	<item id="7408" article="a" name="wyvern fang">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="32"/>
+		<attribute key="attack" value="29"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="2000"/>
@@ -15979,7 +15979,7 @@
 	<item id="7429" article="a" name="blessed sceptre">
 		<attribute key="description" value="This sceptre is only granted to a warlord of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="47"/>
+		<attribute key="attack" value="38"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="3900"/>
@@ -16041,7 +16041,7 @@
 	<item id="7434" article="a" name="royal axe">
 		<attribute key="description" value="This axe is only granted to a warlord of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="47"/>
+		<attribute key="attack" value="38"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="weight" value="9200"/>
@@ -17584,9 +17584,9 @@
 	</item>
 	<item id="8102" article="an" name="emerald sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="57"/>
-		<attribute key="extradef" value="3"/>
+		<attribute key="attack" value="54"/>
 		<attribute key="defense" value="33"/>
+		<attribute key="extradef" value="10"/>
 		<attribute key="weight" value="4100"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
@@ -23128,7 +23128,7 @@
 	</item>
 	<item id="11693" article="a" name="blade of corruption">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="48"/>
+		<attribute key="attack" value="45"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="29"/>
 		<attribute key="weight" value="6400"/>
@@ -27664,9 +27664,9 @@
 	<item id="16175" article="a" name="shiny blade">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="skillsword" value="1"/>
-		<attribute key="attack" value="61"/>
-		<attribute key="extradef" value="2"/>
+		<attribute key="attack" value="58"/>
 		<attribute key="defense" value="35"/>
+		<attribute key="extradef" value="5"/>
 		<attribute key="weight" value="4500"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="1">
@@ -37163,7 +37163,7 @@
 	<item id="22759" article="a" name="plague bite">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementearth" value="26"/>
-		<attribute key="attack" value="26"/>
+		<attribute key="attack" value="32"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="9900"/>
@@ -37172,7 +37172,7 @@
 	<item id="22760" article="an" name="impaler of the igniter">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementfire" value="26"/>
-		<attribute key="attack" value="26"/>
+		<attribute key="attack" value="32"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="5900"/>
@@ -42191,10 +42191,11 @@
 	</item>
 	<item id="27449" article="a" name="blade of destruction">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="50"/>
+		<attribute key="attack" value="55"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="weight" value="5000"/>
 		<attribute key="upgradeclassification" value="2"/>
+		<attribute key="range" value="3"/>
 		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
@@ -45625,12 +45626,13 @@
 	</item>
 	<item id="29421" article="a" name="summerblade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementfire" value="41"/>
+		<attribute key="elementfire" value="48"/>
 		<attribute key="skillsword" value="1"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="4300"/>
+		<attribute key="range" value="2"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3"/>
@@ -45641,12 +45643,13 @@
 	</item>
 	<item id="29422" article="a" name="winterblade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementice" value="40"/>
+		<attribute key="elementice" value="48"/>
 		<attribute key="skillsword" value="1"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="4300"/>
+		<attribute key="range" value="2"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3"/>
@@ -47300,9 +47303,9 @@
 		</attribute>
 	</item>
 	<item id="30398" name="cobra sword">
-		<attribute key="skillsword" value="9"/>
+		<attribute key="skillsword" value="3"/>
 		<attribute key="attack" value="70"/>
-		<attribute key="extradef" value="5"/>
+		<attribute key="extradef" value="15"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="6300"/>
 		<attribute key="upgradeclassification" value="4"/>
