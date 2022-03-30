@@ -6035,8 +6035,8 @@
 	</item>
 	<item id="3291" article="a" name="knife">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="5"/>
-		<attribute key="defense" value="5"/>
+		<attribute key="attack" value="26"/>
+		<attribute key="defense" value="15"/>
 		<attribute key="weight" value="420"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -6291,8 +6291,10 @@
 	</item>
 	<item id="3316" article="an" name="orcish axe">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="attack" value="11"/>
 		<attribute key="defense" value="12"/>
+		<attribute key="elementfire" value="17"/>
+		<attribute key="range" value="2"/>
 		<attribute key="weight" value="4500"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
@@ -6313,9 +6315,10 @@
 	</item>
 	<item id="3318" article="a" name="knight axe">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="33"/>
+		<attribute key="attack" value="6"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="21"/>
+		<attribute key="elementdeath" value="27"/>
 		<attribute key="weight" value="5900"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
@@ -6345,10 +6348,11 @@
 	<item id="3320" article="a" name="fire axe">
 		<attribute key="description" value="The blade is a magic flame"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementfire" value="11"/>
+		<attribute key="elementfire" value="9"/>
 		<attribute key="attack" value="27"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="16"/>
+		<attribute key="range" value="2"/>
 		<attribute key="weight" value="4000"/>
 		<attribute key="upgradeclassification" value="2"/>
 	</item>
@@ -6409,7 +6413,7 @@
 	</item>
 	<item id="3326" article="an" name="epee">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="28"/>
+		<attribute key="attack" value="32"/>
 		<attribute key="defense" value="23"/>
 		<attribute key="weight" value="1450"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -6537,9 +6541,10 @@
 	</item>
 	<item id="3338" article="a" name="bone sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="13"/>
+		<attribute key="attack" value="29"/>
 		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="1900"/>
+		<attribute key="range" value="2"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3339" article="a" name="djinn blade">
@@ -6631,10 +6636,11 @@
 	</item>
 	<item id="3345" article="a" name="templar scytheblade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="attack" value="25"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="weight" value="2900"/>
+		<attribute key="range" value="3"/>
 		<attribute key="upgradeclassification" value="1"/>
 	</item>
 	<item id="3346" article="a" name="ripper lance">
@@ -15718,7 +15724,7 @@
 	</item>
 	<item id="7408" article="a" name="wyvern fang">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="29"/>
+		<attribute key="attack" value="27"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="2000"/>
@@ -15864,7 +15870,8 @@
 	</item>
 	<item id="7419" article="a" name="dreaded cleaver">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="40"/>
+		<attribute key="attack" value="13"/>
+		<attribute key="elementfire" value="27"/>
 		<attribute key="extradef" value="-3"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="3800"/>
@@ -16230,10 +16237,11 @@
 	</item>
 	<item id="7456" article="a" name="noble axe">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="39"/>
+		<attribute key="attack" value="11"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="3800"/>
 		<attribute key="upgradeclassification" value="2"/>
+		<attribute key="elementearth" value="27"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
@@ -25835,9 +25843,11 @@
 	<item id="14039" name="RESERVED SPRITE"/>
 	<item id="14040" article="a" name="warrior's axe">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="42"/>
+		<attribute key="attack" value="13"/>
+		<attribute key="elementholy" value="27"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="8800"/>
+		<attribute key="range" value="2"/>
 		<attribute key="upgradeclassification" value="2"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
@@ -34312,7 +34322,7 @@
 	</item>
 	<item id="21177" article="a" name="cowtana">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="26"/>
+		<attribute key="attack" value="34"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="2800"/>
