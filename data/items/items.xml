@@ -6064,7 +6064,8 @@
 	<item id="3295" article="a" name="bright sword">
 		<attribute key="description" value="The blade shimmers in light blue"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="attack" value="1"/>
+		<attribute key="elementholy" value="55"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="2900"/>
@@ -15561,7 +15562,7 @@
 		<attribute key="description" value="This sword is only granted to a warlord of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="attack" value="38"/>
-		<attribute key="extradef" value="3"/>
+		<attribute key="extradef" value="30"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="5000"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -15818,7 +15819,7 @@
 	<item id="7416" article="a" name="bloody edge">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="attack" value="43"/>
-		<attribute key="extradef" value="-3"/>
+		<attribute key="extradef" value="-30"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5200"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -15832,11 +15833,12 @@
 	</item>
 	<item id="7417" article="a" name="runed sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="45"/>
+		<attribute key="attack" value="43"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="32"/>
 		<attribute key="weight" value="4600"/>
 		<attribute key="upgradeclassification" value="2"/>
+		<attribute key="range" value="2"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
@@ -15847,7 +15849,7 @@
 	</item>
 	<item id="7418" article="a" name="nightmare blade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="46"/>
+		<attribute key="attack" value="40"/>
 		<attribute key="extradef" value="-3"/>
 		<attribute key="defense" value="23"/>
 		<attribute key="weight" value="4600"/>
