@@ -5933,7 +5933,7 @@
 		<attribute key="description" value="The blade is a magic flame (2 range)"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="elementfire" value="27"/>
-		<attribute key="attack" value="16"/>
+		<attribute key="attack" value="6"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="2300"/>
@@ -6005,7 +6005,7 @@
 	<item id="3288" article="a" name="magic sword">
 		<attribute key="description" value="It's the Sword of Valor"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="48"/>
+		<attribute key="attack" value="52"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="4200"/>
@@ -6408,7 +6408,7 @@
 	</item>
 	<item id="3326" article="an" name="epee">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="37"/>
+		<attribute key="attack" value="28"/>
 		<attribute key="defense" value="23"/>
 		<attribute key="weight" value="1450"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -6543,10 +6543,11 @@
 	</item>
 	<item id="3339" article="a" name="djinn blade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="38"/>
+		<attribute key="attack" value="28"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="2450"/>
+		<attribute key="range" value="3"/>
 		<attribute key="upgradeclassification" value="3"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
@@ -15470,8 +15471,8 @@
 	</item>
 	<item id="7383" article="a" name="relic sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="42"/>
-		<attribute key="extradef" value="1"/>
+		<attribute key="attack" value="34"/>
+		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -15486,8 +15487,9 @@
 	<item id="7384" article="a" name="mystic blade">
 		<attribute key="description" value="This sword is only granted to a scrapper of the Svargrond arena"/>
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="34"/>
-		<attribute key="extradef" value="2"/>
+		<attribute key="attack" value="25"/>
+		<attribute key="elementice" value="15"/>
+		<attribute key="extradef" value="5"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="weight" value="3500"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -15501,7 +15503,7 @@
 	</item>
 	<item id="7385" article="a" name="crimson sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="28"/>
+		<attribute key="attack" value="24"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="3600"/>
@@ -15654,7 +15656,7 @@
 	</item>
 	<item id="7404" article="an" name="assassin dagger">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="40"/>
+		<attribute key="attack" value="31"/>
 		<attribute key="extradef" value="-2"/>
 		<attribute key="defense" value="12"/>
 		<attribute key="weight" value="1700"/>
@@ -17582,7 +17584,7 @@
 	</item>
 	<item id="8102" article="an" name="emerald sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="49"/>
+		<attribute key="attack" value="57"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="weight" value="4100"/>
@@ -21574,7 +21576,7 @@
 	</item>
 	<item id="10390" article="a" name="Zaoan sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="43"/>
+		<attribute key="attack" value="37"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="18"/>
 		<attribute key="weight" value="4900"/>
@@ -27569,8 +27571,8 @@
 	<item fromid="16156" toid="16159" name="RESERVED SPRITE"/>
 	<item id="16160" article="a" name="crystalline sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="47"/>
-		<attribute key="extradef" value="1"/>
+		<attribute key="attack" value="41"/>
+		<attribute key="extradef" value="4"/>
 		<attribute key="defense" value="34"/>
 		<attribute key="weight" value="4800"/>
 		<attribute key="upgradeclassification" value="2"/>
@@ -27662,7 +27664,7 @@
 	<item id="16175" article="a" name="shiny blade">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="skillsword" value="1"/>
-		<attribute key="attack" value="49"/>
+		<attribute key="attack" value="61"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="4500"/>
@@ -28778,7 +28780,7 @@
 	<item id="17811" name="RESERVED SPRITE"/>
 	<item id="17812" article="a" name="ratana">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="27"/>
+		<attribute key="attack" value="25"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="3300"/>
@@ -32551,7 +32553,7 @@
 	</item>
 	<item id="20064" article="a" name="crude umbral blade">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="48"/>
+		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="26"/>
 		<attribute key="weight" value="6300"/>
@@ -32575,7 +32577,7 @@
 	<item id="20066" article="an" name="umbral masterblade">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="skillsword" value="1"/>
-		<attribute key="attack" value="52"/>
+		<attribute key="attack" value="65"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="5500"/>
@@ -32629,7 +32631,7 @@
 	</item>
 	<item id="20070" article="a" name="crude umbral axe">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="49"/>
+		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="9000"/>
@@ -32707,7 +32709,7 @@
 	</item>
 	<item id="20076" article="a" name="crude umbral mace">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="48"/>
+		<attribute key="attack" value="46"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="9000"/>
@@ -34308,7 +34310,7 @@
 	</item>
 	<item id="21177" article="a" name="cowtana">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="attack" value="34"/>
+		<attribute key="attack" value="26"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="19"/>
 		<attribute key="weight" value="2800"/>
@@ -42953,14 +42955,14 @@
 	</item>
 	<item id="27651" article="a" name="gnome sword">
 		<attribute key="weaponType" value="sword"/>
-		<attribute key="elementenergy" value="42"/>
 		<attribute key="absorbpercentenergy" value="6"/>
 		<attribute key="skillsword" value="3"/>
-		<attribute key="attack" value="10"/>
+		<attribute key="attack" value="65"/>
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="29"/>
 		<attribute key="weight" value="8500"/>
 		<attribute key="upgradeclassification" value="3"/>
+		<attribute key="range" value="3"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -47298,9 +47300,9 @@
 		</attribute>
 	</item>
 	<item id="30398" name="cobra sword">
-		<attribute key="skillsword" value="3"/>
-		<attribute key="attack" value="52"/>
-		<attribute key="extradef" value="2"/>
+		<attribute key="skillsword" value="9"/>
+		<attribute key="attack" value="70"/>
+		<attribute key="extradef" value="5"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="6300"/>
 		<attribute key="upgradeclassification" value="4"/>
@@ -52161,10 +52163,10 @@
 	<item id="34082" article="a" name="soulcutter">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="loottype" value="sword"/>
-		<attribute key="elementdeath" value="45"/>
-		<attribute key="skillmanaamount" value="3"/>
+		<attribute key="elementdeath" value="70"/>
+		<attribute key="skillmanaamount" value="6"/>
 		<attribute key="skillmanachance" value="100"/>
-		<attribute key="skilllifeamount" value="5"/>
+		<attribute key="skilllifeamount" value="10"/>
 		<attribute key="skilllifechance" value="100"/>
 		<attribute key="skillsword" value="5"/>
 		<attribute key="attack" value="7"/>
@@ -52184,10 +52186,10 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="slotType" value="two-handed"/>
 		<attribute key="loottype" value="sword"/>
-		<attribute key="elementice" value="47"/>
+		<attribute key="elementice" value="80"/>
 		<attribute key="criticalhitdamage" value="10"/>
 		<attribute key="criticalhitchance" value="10"/>
-		<attribute key="skillsword" value="5"/>
+		<attribute key="skillsword" value="10"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="8100"/>
@@ -52203,10 +52205,10 @@
 	<item id="34084" article="a" name="soulbiter">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="loottype" value="axe"/>
-		<attribute key="elementdeath" value="45"/>
-		<attribute key="skillmanaamount" value="3"/>
+		<attribute key="elementearth" value="70"/>
+		<attribute key="skillmanaamount" value="6"/>
 		<attribute key="skillmanachance" value="100"/>
-		<attribute key="skilllifeamount" value="5"/>
+		<attribute key="skilllifeamount" value="10"/>
 		<attribute key="skilllifechance" value="100"/>
 		<attribute key="skillaxe" value="5"/>
 		<attribute key="attack" value="7"/>
@@ -52226,10 +52228,10 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="slotType" value="two-handed"/>
 		<attribute key="loottype" value="axe"/>
-		<attribute key="elementice" value="47"/>
+		<attribute key="elementfire" value="80"/>
 		<attribute key="criticalhitdamage" value="10"/>
 		<attribute key="criticalhitchance" value="10"/>
-		<attribute key="skillaxe" value="5"/>
+		<attribute key="skillaxe" value="10"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="7200"/>
@@ -52245,7 +52247,7 @@
 	<item id="34086" article="a" name="soulcrusher">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="loottype" value="club"/>
-		<attribute key="elementice" value="46"/>
+		<attribute key="elementholy" value="70"/>
 		<attribute key="skillmanaamount" value="3"/>
 		<attribute key="skillmanachance" value="100"/>
 		<attribute key="skilllifeamount" value="5"/>
@@ -52267,10 +52269,10 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="slotType" value="two-handed"/>
 		<attribute key="loottype" value="club"/>
-		<attribute key="elementenergy" value="47"/>
+		<attribute key="elementenergy" value="80"/>
 		<attribute key="criticalhitdamage" value="10"/>
 		<attribute key="criticalhitchance" value="10"/>
-		<attribute key="skillclub" value="5"/>
+		<attribute key="skillclub" value="10"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="8900"/>
@@ -52777,12 +52779,13 @@
 	<item id="34155" article="a" name="lion longsword">
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="loottype" value="sword"/>
-		<attribute key="elementearth" value="44"/>
+		<attribute key="elementearth" value="60"/>
 		<attribute key="skillsword" value="3"/>
 		<attribute key="attack" value="8"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="7500"/>
+		<attribute key="range" value="2"/>
 		<attribute key="upgradeclassification" value="4"/>
 		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
