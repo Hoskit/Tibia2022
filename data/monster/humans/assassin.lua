@@ -101,7 +101,7 @@ monster.attacks = {
 }
 
 monster.defenses = {
-	defense = 15,
+	defense = 5,
 	armor = 15,
 	{name ="invisible", interval = 2000, chance = 10, effect = CONST_ME_MAGIC_BLUE}
 }
