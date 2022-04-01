@@ -386,7 +386,7 @@ ChestUnique = {
 	[6034] = {
 		itemId = 2469,
 		itemPos = {x = 33095, y = 31800, z = 10},
-		reward = {{3054, 200}},
+		reward = {{3054, 1}},
 		storage = Storage.Quest.EdronGoblin.SilverAmulet
 	},
 	-- Steel shield
