@@ -1,6 +1,6 @@
 local combat = Combat()
-combat:setParameter(COMBAT_PARAM_BLOCKARMOR, 1)
-combat:setParameter(COMBAT_PARAM_BLOCKSHIELD, 1)
+combat:setParameter(COMBAT_PARAM_BLOCKARMOR, true)
+combat:setParameter(COMBAT_PARAM_BLOCKSHIELD, true)
 combat:setParameter(COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_DRAWBLOOD)
 combat:setFormula(COMBAT_FORMULA_SKILL, 0, 0, 1, 0)
@@ -19,5 +19,4 @@ function onUseWeapon(player, var)
 end
 
 morningStar:id(3282)
-morningStar:attack(25)
 morningStar:register()
