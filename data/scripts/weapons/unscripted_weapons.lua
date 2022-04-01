@@ -4751,11 +4751,6 @@ local weapons = {
 		type = WEAPON_SWORD
 	},
 	{
-		-- morning star
-		itemid = 3282,
-		type = WEAPON_SWORD
-	},
-	{
 		-- giant sword
 		itemid = 3281,
 		type = WEAPON_SWORD,
