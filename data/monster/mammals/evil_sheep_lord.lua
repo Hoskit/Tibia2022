@@ -92,7 +92,7 @@ monster.attacks = {
 }
 
 monster.defenses = {
-	defense = 35,
+	defense = 5,
 	armor = 30,
 	{name ="combat", interval = 2000, chance = 20, type = COMBAT_HEALING, minDamage = 50, maxDamage = 100, effect = CONST_ME_MAGIC_BLUE, target = false},
 	{name ="outfit", interval = 1500, chance = 50, effect = CONST_ME_MAGIC_BLUE, target = false, duration = 3000, outfitMonster = "Werewolf"}

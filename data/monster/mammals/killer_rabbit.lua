@@ -90,7 +90,7 @@ monster.attacks = {
 }
 
 monster.defenses = {
-	defense = 35,
+	defense = 5,
 	armor = 30,
 	{name ="speed", interval = 1000, chance = 40, speedChange = 380, effect = CONST_ME_ENERGYHIT, target = false, duration = 8000},
 	{name ="invisible", interval = 2000, chance = 30, effect = CONST_ME_MAGIC_BLUE}

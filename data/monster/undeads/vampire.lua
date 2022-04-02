@@ -104,7 +104,7 @@ monster.attacks = {
 }
 
 monster.defenses = {
-	defense = 30,
+	defense = 0,
 	armor = 30,
 	{name ="outfit", interval = 4000, chance = 10, effect = CONST_ME_GROUNDSHAKER, target = false, duration = 5000, outfitMonster = "bat"},
 	{name ="speed", interval = 2000, chance = 15, speedChange = 300, effect = CONST_ME_MAGIC_RED, target = false, duration = 3000},

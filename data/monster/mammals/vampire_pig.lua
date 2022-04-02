@@ -85,7 +85,7 @@ monster.attacks = {
 }
 
 monster.defenses = {
-	defense = 35,
+	defense = 5,
 	armor = 30,
 	{name ="outfit", interval = 2000, chance = 20, effect = CONST_ME_MAGIC_BLUE, target = false, duration = 1500, outfitMonster = "mutated bat"}
 }
