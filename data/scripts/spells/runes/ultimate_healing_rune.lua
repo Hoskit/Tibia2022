@@ -6,8 +6,8 @@ combat:setParameter(COMBAT_PARAM_TARGETCASTERORTOPMOST, 1)
 combat:setParameter(COMBAT_PARAM_DISPEL, CONDITION_PARALYZE)
 
 function onGetFormulaValues(player, level, maglevel)
-	local min = (level) + (maglevel * 70.3) + 42
-	local max = (level) + (maglevel * 120.4) + 90
+	local min = (level) + (maglevel * 14.3) + 42
+	local max = (level) + (maglevel * 20.4) + 90
 	return min, max
 end
 
