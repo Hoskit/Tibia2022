@@ -11,7 +11,7 @@ spell:vocation("sorcerer;true", "master sorcerer;true", "knight;true", "elite kn
 spell:cooldown(2 * 1000)
 spell:groupCooldown(2 * 1000)
 spell:level(12)
-spell:mana(530)
+spell:mana(230)
 spell:soul(3)
 spell:isAggressive(false)
 spell:needLearn(false)
