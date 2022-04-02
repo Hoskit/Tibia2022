@@ -2484,7 +2484,7 @@ void Game::internalQuickLootCorpse(Player* player, Container* corpse)
 	}
 
 	ss << ".";
-	player->sendTextMessage(MESSAGE_LOOT, ss.str());
+	//player->sendTextMessage(MESSAGE_LOOT, ss.str());
 
 	if (shouldNotifyCapacity) {
 		ss.str(std::string());
@@ -2497,9 +2497,9 @@ void Game::internalQuickLootCorpse(Player* player, Container* corpse)
 	}
 
 	if (player->lastQuickLootNotification + 15000 < OTSYS_TIME()) {
-		player->sendTextMessage(MESSAGE_GAME_HIGHLIGHT, ss.str());
+		//player->sendTextMessage(MESSAGE_GAME_HIGHLIGHT, ss.str());
 	} else {
-		player->sendTextMessage(MESSAGE_EVENT_ADVANCE, ss.str());
+		//player->sendTextMessage(MESSAGE_EVENT_ADVANCE, ss.str());
 	}
 
 	player->lastQuickLootNotification = OTSYS_TIME();
