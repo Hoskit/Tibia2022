@@ -45,7 +45,7 @@ function spell.onCastSpell(player, variant)
 	playerPosition:sendMagicEffect(CONST_ME_MAGIC_BLUE)
 	myFamiliar:getPosition():sendMagicEffect(CONST_ME_TELEPORT)
 	player:setStorageValue(Storage.FamiliarSummon, os.time() + 15*60) -- 15 minutes from now
-	addEvent(removeFamiliar, 15*60*1000, myFamiliar:getId(), player:getId())
+	addEvent(removeFamiliar, 20*60*1000, myFamiliar:getId(), player:getId())
 	for sendMessage = 1, #FAMILIAR_TIMER do
 		player:setStorageValue(FAMILIAR_TIMER[sendMessage].storage,addEvent(sendMessageFunction, (15*60-FAMILIAR_TIMER[sendMessage].countdown)*1000, player:getId(),FAMILIAR_TIMER[sendMessage].message))
 	end
