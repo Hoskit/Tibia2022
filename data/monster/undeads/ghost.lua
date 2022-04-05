@@ -28,7 +28,7 @@ monster.Bestiary = {
 		Ramoa, Lich Hell, Upper Spike."
 	}
 
-monster.health = 150
+monster.health = 100
 monster.maxHealth = 150
 monster.race = "undead"
 monster.corpse = 5993
